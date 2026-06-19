@@ -1,0 +1,1113 @@
+[
+  {
+    "key": "domain1",
+    "title": "Domain 1: Pedagogical Innovation",
+    "shortTitle": "Pedagogical Innovation",
+    "bronfenbrenner": "Microsystem",
+    "color": "#B8860B",
+    "strands": [
+      {
+        "code": "S1",
+        "name": "Content Knowledge and Disciplinary Expertise",
+        "questions": [
+          {
+            "id": 1,
+            "type": "L",
+            "statement": "I can confidently evaluate the student's source against current disciplinary knowledge and use the moment as a learning opportunity rather than a disruption.",
+            "scenario": "A student challenges a point you made in class, citing something they read online that contradicts the textbook."
+          },
+          {
+            "id": 2,
+            "type": "L",
+            "statement": "I regularly update my own subject knowledge and incorporate emerging developments into my teaching, rather than relying solely on the prescribed curriculum materials.",
+            "scenario": "You are preparing a lesson on a topic where recent research has shifted the accepted understanding in your field."
+          },
+          {
+            "id": 3,
+            "type": "L",
+            "statement": "I identify common misconceptions in my subject in advance and design lessons that directly address and correct them, rather than simply presenting correct information.",
+            "scenario": "Students are about to encounter a concept that most learners historically find confusing or tend to misunderstand."
+          },
+          {
+            "id": 4,
+            "type": "L",
+            "statement": "I proactively deepen my subject knowledge when gaps appear, seeking out relevant sources, colleagues, or research rather than defaulting to surface-level coverage.",
+            "scenario": "You are asked to teach a topic that sits at the edge of your disciplinary expertise."
+          },
+          {
+            "id": 5,
+            "type": "O",
+            "statement": "Describe a specific moment in the last six months when your deep subject knowledge directly improved a student's understanding. What did you know, what did you do, and what was the outcome?"
+          },
+          {
+            "id": 6,
+            "type": "L",
+            "statement": "I can draw on authentic, current examples from my discipline to make learning relevant and meaningful, going well beyond the examples provided in standard textbooks.",
+            "scenario": "A colleague asks you to collaborate on a resource that connects your subject to real-world applications."
+          }
+        ]
+      },
+      {
+        "code": "S2",
+        "name": "Interdisciplinary Awareness",
+        "questions": [
+          {
+            "id": 7,
+            "type": "L",
+            "statement": "I can immediately articulate genuine connections between my subject and other disciplines, and I regularly make these connections visible to students in my teaching.",
+            "scenario": "A student asks why they need to learn a concept you are teaching, saying it has nothing to do with their other subjects."
+          },
+          {
+            "id": 8,
+            "type": "L",
+            "statement": "I take an active role in designing interdisciplinary experiences, contributing subject expertise while genuinely integrating other disciplines around a shared question or problem.",
+            "scenario": "Your school launches a cross-curricular project week and asks teachers to plan collaboratively across subjects."
+          },
+          {
+            "id": 9,
+            "type": "L",
+            "statement": "I reach out to colleagues in other departments to coordinate timing, language, and approach so students experience coherence rather than repetition.",
+            "scenario": "You notice that a concept you are teaching in your subject is also taught in a different form in another subject at the same grade level."
+          },
+          {
+            "id": 10,
+            "type": "L",
+            "statement": "I recognise and celebrate organic interdisciplinary thinking in students, and I use such moments to reinforce transfer of learning rather than redirecting students back to subject boundaries.",
+            "scenario": "A student's project draws on knowledge from two subjects simultaneously in a way that neither teacher had planned."
+          },
+          {
+            "id": 11,
+            "type": "L",
+            "statement": "I intentionally design assessment tasks that require students to draw on skills and knowledge from more than one discipline to arrive at a solution.",
+            "scenario": "You are designing a unit assessment and want it to reflect real-world complexity."
+          },
+          {
+            "id": 12,
+            "type": "O",
+            "statement": "Describe an interdisciplinary learning experience you have designed or contributed to. What disciplines were involved, how did students respond, and what would you do differently if you ran it again?"
+          }
+        ]
+      },
+      {
+        "code": "S3",
+        "name": "Learner-Centred Planning and Teaching",
+        "questions": [
+          {
+            "id": 13,
+            "type": "L",
+            "statement": "I revise my planning each cycle based on what I know about this specific group of learners, rather than reusing plans without adaptation.",
+            "scenario": "You are planning a new unit for a class you have taught before, using the same lesson plans from last year."
+          },
+          {
+            "id": 14,
+            "type": "L",
+            "statement": "I have structured approaches to extending and challenging advanced learners within the same lesson, without simply assigning them more of the same work.",
+            "scenario": "Three students in your class are significantly ahead of the rest in their understanding of the current topic."
+          },
+          {
+            "id": 15,
+            "type": "L",
+            "statement": "I notice shifts in individual learner behaviour and investigate the cause rather than attributing it to the student's attitude or effort.",
+            "scenario": "A student who normally participates well has been disengaged for the past two weeks."
+          },
+          {
+            "id": 16,
+            "type": "L",
+            "statement": "I make deliberate decisions about pacing, scaffolding, and structure based on what I know about how this group of learners processes and retains new information.",
+            "scenario": "You are designing a lesson where students will need to process new and complex information."
+          },
+          {
+            "id": 17,
+            "type": "O",
+            "statement": "Describe a specific instance where you changed your teaching plan mid-unit based on what you observed about your students' learning. What did you observe, what did you change, and what happened as a result?"
+          },
+          {
+            "id": 18,
+            "type": "L",
+            "statement": "I use information from students, parents, and my own observations to make instructional adjustments that respond to learner needs in practical, timely ways.",
+            "scenario": "A parent contacts you to say their child finds your lessons too fast-paced and is anxious about keeping up."
+          }
+        ]
+      },
+      {
+        "code": "S4",
+        "name": "Appropriate Methodology to the End Goal",
+        "questions": [
+          {
+            "id": 19,
+            "type": "L",
+            "statement": "I align my teaching methods precisely to the type of thinking or performance the outcome demands, not just to what I am most comfortable teaching.",
+            "scenario": "The learning outcome for a unit requires students to be able to evaluate competing arguments, not just recall facts."
+          },
+          {
+            "id": 20,
+            "type": "L",
+            "statement": "I recognise when a method is not working and switch to a different strategy based on evidence from student responses, not because of time pressure or routine.",
+            "scenario": "You have used the same instructional approach for several lessons and some students are still not demonstrating understanding."
+          },
+          {
+            "id": 21,
+            "type": "L",
+            "statement": "I select pedagogical methods that prioritise application, practice, and feedback over content transmission when the learning goal is performance or skill development.",
+            "scenario": "You are planning a practical, skills-based unit where students need to apply learning to a real task."
+          },
+          {
+            "id": 22,
+            "type": "L",
+            "statement": "I evaluate new pedagogical approaches against evidence of effectiveness and alignment to my specific learning goals, rather than adopting them because they are popular.",
+            "scenario": "A colleague suggests trying a new instructional approach that is trending in education but which you have not used before."
+          },
+          {
+            "id": 23,
+            "type": "L",
+            "statement": "I design instructional sequences with a deliberate logic: each phase of teaching prepares students for the next, and I can explain the rationale for this sequence.",
+            "scenario": "You are designing a sequence of lessons where students must first build foundational knowledge before tackling more complex tasks."
+          },
+          {
+            "id": 24,
+            "type": "O",
+            "statement": "Describe a time when you deliberately changed your teaching methodology mid-unit because it was not aligned to your intended outcome. What methodology did you start with, what did you switch to, and what evidence told you the change was working?"
+          }
+        ]
+      },
+      {
+        "code": "S5",
+        "name": "Equity, Inclusion and Cultural Responsiveness",
+        "questions": [
+          {
+            "id": 25,
+            "type": "L",
+            "statement": "I investigate the structural reasons for unequal participation and redesign the participation structure itself, rather than simply encouraging the quieter students to speak up more.",
+            "scenario": "You notice that students from one particular background consistently participate less in class discussions."
+          },
+          {
+            "id": 26,
+            "type": "L",
+            "statement": "I audit and actively diversify the examples, texts, and references I use so that students from different backgrounds can see their experiences and knowledge reflected in the curriculum.",
+            "scenario": "Your teaching materials use examples and references that predominantly reflect one cultural perspective."
+          },
+          {
+            "id": 27,
+            "type": "L",
+            "statement": "I design tasks from the start with multiple access points so that adjustments for individual learners are built in, not bolted on as afterthoughts.",
+            "scenario": "A student with a learning difference requires an adjusted version of a task that the rest of the class is completing."
+          },
+          {
+            "id": 28,
+            "type": "L",
+            "statement": "I can clearly articulate why equity requires differentiated responses to different learner needs, and I act on this understanding in my classroom decisions.",
+            "scenario": "A colleague argues that treating all students the same is the fairest approach."
+          },
+          {
+            "id": 29,
+            "type": "O",
+            "statement": "Describe a specific barrier to participation or belonging that you identified in your classroom. What did you do to address it, and how did you know whether your response was effective?"
+          },
+          {
+            "id": 30,
+            "type": "L",
+            "statement": "I approach culturally sensitive content with intentional preparation: I anticipate how different students may respond and design the learning experience to be respectful, inclusive, and educationally purposeful.",
+            "scenario": "You are preparing a unit that touches on a topic with significant cultural or social sensitivity for students in your class."
+          }
+        ]
+      },
+      {
+        "code": "S6",
+        "name": "Learning Environment Design and Management",
+        "questions": [
+          {
+            "id": 31,
+            "type": "L",
+            "statement": "I take deliberate steps to build a classroom culture where intellectual risk-taking is safe and normalised, addressing the relational conditions that produce this reluctance.",
+            "scenario": "Students in your class are reluctant to ask questions or admit they do not understand something."
+          },
+          {
+            "id": 32,
+            "type": "L",
+            "statement": "I adapt the physical environment, seating, and spatial organisation of my classroom to match the pedagogical demands of different activities.",
+            "scenario": "You notice that your classroom layout is making certain collaborative activities difficult to execute effectively."
+          },
+          {
+            "id": 33,
+            "type": "L",
+            "statement": "I address classroom disruptions by examining the environmental, relational, or task-design factors that may be contributing, not only by managing the individual student's behaviour.",
+            "scenario": "A student persistently disrupts the learning of others during collaborative tasks."
+          },
+          {
+            "id": 34,
+            "type": "L",
+            "statement": "I involve students in co-creating classroom agreements and systems so that the learning environment reflects their ownership, not just my rules.",
+            "scenario": "You want your students to take greater ownership of classroom norms and routines."
+          },
+          {
+            "id": 35,
+            "type": "L",
+            "statement": "I have practices and protocols in place to address students' social-emotional needs during lessons without disrupting the learning of the rest of the class.",
+            "scenario": "A student is visibly distressed during a lesson and is unable to engage with the learning activity."
+          },
+          {
+            "id": 36,
+            "type": "O",
+            "statement": "Describe one deliberate decision you made about your classroom environment (physical, relational, or cultural) that had a measurable impact on student engagement or learning. What did you change, and what did you observe?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "domain2",
+    "title": "Domain 2: Assessment and Academic Integrity",
+    "shortTitle": "Assessment and Academic Integrity",
+    "bronfenbrenner": "Microsystem",
+    "color": "#1A6B8A",
+    "strands": [
+      {
+        "code": "S1",
+        "name": "Ethical Design of Assessment Tasks",
+        "questions": [
+          {
+            "id": 37,
+            "type": "L",
+            "statement": "I redesign assessments that fall short of the intended learning outcomes, even when this requires significant additional planning effort.",
+            "scenario": "You are designing a summative assessment for a unit and realise the tasks primarily test whether students can recall information."
+          },
+          {
+            "id": 38,
+            "type": "L",
+            "statement": "I build accessibility into assessment design from the start, ensuring all students can demonstrate their learning without the format creating an unintended barrier.",
+            "scenario": "A student with a visual impairment is in your class and the assessment you have designed relies heavily on interpreting printed diagrams."
+          },
+          {
+            "id": 39,
+            "type": "L",
+            "statement": "I ensure shared assessments are designed with consistent criteria, clear marking guidance, and built-in safeguards against marker subjectivity.",
+            "scenario": "You are setting an assessment that will be used across multiple classes taught by different teachers."
+          },
+          {
+            "id": 40,
+            "type": "L",
+            "statement": "I make assessment expectations and success criteria transparent to students before and during the task, not only when returning results.",
+            "scenario": "A student asks why the assessment criteria were not shared with them before they completed the task."
+          },
+          {
+            "id": 41,
+            "type": "O",
+            "statement": "Describe an assessment task you recently redesigned to make it more valid, authentic, or fair. What was the original task, what problem did you identify, and how did the redesigned version perform?"
+          },
+          {
+            "id": 42,
+            "type": "L",
+            "statement": "I resist assessment design decisions that prioritise administrative convenience over validity, fairness, and alignment to learning outcomes.",
+            "scenario": "A colleague suggests simplifying an assessment task to make it easier to mark quickly."
+          }
+        ]
+      },
+      {
+        "code": "S2",
+        "name": "Feedback as a Learning Tool",
+        "questions": [
+          {
+            "id": 43,
+            "type": "L",
+            "statement": "I structure feedback processes so that students are required to read, engage with, and act on feedback before moving on, not just receive it.",
+            "scenario": "You have returned graded work to students and most of them look at their grade and put the paper away."
+          },
+          {
+            "id": 44,
+            "type": "L",
+            "statement": "I prioritise feedback that is specific, actionable, and forward-looking even when time is constrained, rather than defaulting to general comments or grades only.",
+            "scenario": "You have limited time between receiving student work and the next lesson."
+          },
+          {
+            "id": 45,
+            "type": "L",
+            "statement": "I build structured self-assessment opportunities into my teaching sequence so students develop the criteria internalisation needed for independent quality judgement.",
+            "scenario": "You want students to develop the ability to evaluate the quality of their own work before submission."
+          },
+          {
+            "id": 46,
+            "type": "L",
+            "statement": "I explicitly teach students how to give effective peer feedback, including modelling, criteria-based frameworks, and structured practice.",
+            "scenario": "Students are giving peer feedback on each other's work, but the feedback they produce is vague and unhelpful."
+          },
+          {
+            "id": 47,
+            "type": "L",
+            "statement": "I investigate why feedback is not producing improvement and change my feedback strategy, rather than repeating the same approach and expecting a different outcome.",
+            "scenario": "A student has received detailed written feedback on three consecutive assignments but continues to make the same errors."
+          },
+          {
+            "id": 48,
+            "type": "O",
+            "statement": "Describe a feedback system or routine you have implemented in your classroom. How do students use the feedback you give? What evidence do you have that it improved their learning over time?"
+          }
+        ]
+      },
+      {
+        "code": "S3",
+        "name": "Data-Informed Academic Decisions",
+        "questions": [
+          {
+            "id": 49,
+            "type": "L",
+            "statement": "I treat this data as a signal to investigate the cause of the gap and adjust my next lesson plan accordingly, with a clear rationale linking the evidence to the instructional change.",
+            "scenario": "Mid-unit quiz results show that 60 percent of your class did not meet the benchmark on a key concept."
+          },
+          {
+            "id": 50,
+            "type": "L",
+            "statement": "I draw on multiple data sources including observation, formative tasks, and prior assessment results rather than relying on a single test score or my general impression of a student.",
+            "scenario": "You are making decisions about which students need additional support before a major assessment."
+          },
+          {
+            "id": 51,
+            "type": "L",
+            "statement": "I maintain organised, usable records of assessment data that allow me to demonstrate learner progress with specific evidence rather than general statements.",
+            "scenario": "Your department head asks you to present evidence of how your students have progressed this term."
+          },
+          {
+            "id": 52,
+            "type": "L",
+            "statement": "I notice and investigate patterns in performance data that reveal potential equity issues, and I adjust my teaching or task design to address them.",
+            "scenario": "Assessment data shows that female students in your class are consistently outperforming male students on written tasks but the reverse is true for practical tasks."
+          },
+          {
+            "id": 53,
+            "type": "O",
+            "statement": "Describe a specific instructional decision you made in the last academic year that was directly informed by assessment data. What did the data show, what decision did you make, and what was the measurable result?"
+          },
+          {
+            "id": 54,
+            "type": "L",
+            "statement": "I use diagnostic assessment at the start of a unit to establish what students already know and can do, and I use that information to adjust my unit plan before teaching begins.",
+            "scenario": "You are about to start a new unit with a class you have not taught before."
+          }
+        ]
+      },
+      {
+        "code": "S4",
+        "name": "Institutionalizing Academic Integrity",
+        "questions": [
+          {
+            "id": 55,
+            "type": "L",
+            "statement": "I address academic integrity concerns through direct, educative conversations with students even when formal disciplinary action is not possible, treating it as a learning issue rather than only a compliance matter.",
+            "scenario": "A student submits work that is clearly not their own, but there is no definitive proof of plagiarism under the current school policy."
+          },
+          {
+            "id": 56,
+            "type": "L",
+            "statement": "I design assessment tasks that are sufficiently personalised, contextualised, or process-oriented that using external sources without understanding produces work that does not meet the criteria.",
+            "scenario": "You are designing a major assessment task for which students could easily find answers online or use AI tools to complete it."
+          },
+          {
+            "id": 57,
+            "type": "L",
+            "statement": "I have a clear, nuanced, and educationally grounded position on AI use in assessed work, and I communicate it to students with reasons rather than blanket rules.",
+            "scenario": "A student asks you whether they can use an AI writing assistant to help draft their essay."
+          },
+          {
+            "id": 58,
+            "type": "L",
+            "statement": "I contribute substantively to institutional academic integrity policy based on classroom experience, current thinking about AI and digital tools, and an understanding of what genuinely promotes ethical scholarship.",
+            "scenario": "Your school's academic integrity policy is being reviewed and you are asked to contribute."
+          },
+          {
+            "id": 59,
+            "type": "L",
+            "statement": "I explicitly teach citation practices, ethical information use, and the principles of academic integrity as part of my subject instruction, not as a separate administrative exercise.",
+            "scenario": "You notice that students in your class do not understand the difference between referencing, paraphrasing, and plagiarism."
+          },
+          {
+            "id": 60,
+            "type": "O",
+            "statement": "Describe how academic integrity is embedded as a value in your teaching practice, not just as a rule students must follow. Give a specific example of how you have taught or modelled ethical scholarship in your classroom."
+          }
+        ]
+      },
+      {
+        "code": "S5",
+        "name": "Responsible Use of Digital Tools for Assessment",
+        "questions": [
+          {
+            "id": 61,
+            "type": "L",
+            "statement": "I evaluate digital assessment tools critically for pedagogical effectiveness, accuracy, bias, and data privacy before adopting them, rather than selecting them based on time-saving potential alone.",
+            "scenario": "You are considering using an AI-powered grading or feedback tool to handle a large volume of student submissions."
+          },
+          {
+            "id": 62,
+            "type": "L",
+            "statement": "I am aware of what data is collected by the digital tools I use, who has access to it, and whether its use complies with institutional data privacy expectations.",
+            "scenario": "You use an online quiz platform that collects and stores student performance data."
+          },
+          {
+            "id": 63,
+            "type": "L",
+            "statement": "I use digital learning data as a prompt for a direct, human conversation with the student rather than as a substitute for it.",
+            "scenario": "A student's learning analytics dashboard shows a sudden drop in engagement and performance metrics."
+          },
+          {
+            "id": 64,
+            "type": "L",
+            "statement": "I use digital feedback tools in ways that enhance specificity and timeliness of feedback, and I verify that the automated feedback is accurate and aligned to my assessment criteria.",
+            "scenario": "You want to give students faster, more personalised feedback on their written work using a digital tool."
+          },
+          {
+            "id": 65,
+            "type": "O",
+            "statement": "Describe a digital tool you currently use for assessment or feedback. What pedagogical problem does it solve? What are its limitations, and how do you compensate for those limitations in your practice?"
+          },
+          {
+            "id": 66,
+            "type": "L",
+            "statement": "I approach new assessment technology as an active evaluator, documenting what works and what does not, and sharing findings with colleagues to inform institutional decisions.",
+            "scenario": "Your institution is introducing a new digital assessment platform and you are asked to pilot it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "domain3",
+    "title": "Domain 3: Student Empowerment and Readiness",
+    "shortTitle": "Student Empowerment and Readiness",
+    "bronfenbrenner": "Mesosystem",
+    "color": "#1B6B2E",
+    "strands": [
+      {
+        "code": "S1",
+        "name": "Learner Self-Regulation and Goal Setting",
+        "questions": [
+          {
+            "id": 67,
+            "type": "L",
+            "statement": "I teach students to analyse their own learning processes and identify specific gaps in their strategies, not just gaps in their content knowledge.",
+            "scenario": "A student tells you they studied hard for a test but still did poorly, and they do not understand why."
+          },
+          {
+            "id": 68,
+            "type": "L",
+            "statement": "I structure opportunities for students to set personal learning goals at the start of a unit and revisit and revise those goals as learning progresses.",
+            "scenario": "You are beginning a new unit and want students to take ownership of what they are about to learn."
+          },
+          {
+            "id": 69,
+            "type": "L",
+            "statement": "I teach and support students to break complex tasks into manageable steps, monitor their own progress, and adjust their plan when they fall behind.",
+            "scenario": "Students are working on a long-term project with multiple milestones over several weeks."
+          },
+          {
+            "id": 70,
+            "type": "L",
+            "statement": "I push high-achieving students to develop metacognitive habits just as deliberately as I support struggling students, because self-regulation is a skill independent of academic performance.",
+            "scenario": "You notice that high-achieving students in your class rarely reflect on their learning because they consistently get good results."
+          },
+          {
+            "id": 71,
+            "type": "L",
+            "statement": "I investigate whether the cause is a self-regulation gap rather than a motivation or attitude problem, and I respond with strategies that build the specific skill that is missing.",
+            "scenario": "A student consistently fails to submit work on time despite reminders."
+          },
+          {
+            "id": 72,
+            "type": "O",
+            "statement": "Describe a specific routine or structure you use to develop student self-regulation in your classroom. What does it look like in practice, how do students respond to it, and what evidence do you have that it is building learner independence?"
+          }
+        ]
+      },
+      {
+        "code": "S2",
+        "name": "Digital Responsibility and Ethical Engagement",
+        "questions": [
+          {
+            "id": 73,
+            "type": "L",
+            "statement": "I explicitly teach students to critically evaluate digital sources for credibility, bias, and purpose as a standard part of how we use information in my classroom.",
+            "scenario": "A student shares an unverified news article in a class discussion as though it is factual."
+          },
+          {
+            "id": 74,
+            "type": "L",
+            "statement": "I address digital conduct issues as opportunities to explicitly teach ethical online communication, connecting the incident to broader principles rather than only applying a rule.",
+            "scenario": "Students are using a shared online space for a collaborative class project and you notice some students posting dismissive or unkind comments."
+          },
+          {
+            "id": 75,
+            "type": "L",
+            "statement": "I teach intellectual property rights, creative commons licensing, and proper attribution as integrated parts of how students work with digital content in my subject.",
+            "scenario": "A student asks whether they can use images they found online in their presentation without crediting the source."
+          },
+          {
+            "id": 76,
+            "type": "L",
+            "statement": "I build structured digital responsibility practices into research tasks, including source evaluation, data privacy awareness, and ethical use of found information.",
+            "scenario": "You are running a lesson where students will conduct online research."
+          },
+          {
+            "id": 77,
+            "type": "O",
+            "statement": "Describe how you integrate digital citizenship education into your subject teaching. Give a specific example of a lesson or task where ethical digital engagement was an explicit learning outcome, not just an assumed behaviour."
+          },
+          {
+            "id": 78,
+            "type": "L",
+            "statement": "I have the professional capacity to address the educational dimensions of student online behaviour that spills into the classroom, even when the incident originated outside school.",
+            "scenario": "A student's personal social media activity outside school hours creates a conflict within the classroom community."
+          }
+        ]
+      },
+      {
+        "code": "S3",
+        "name": "Peer Collaboration and Social Learning",
+        "questions": [
+          {
+            "id": 79,
+            "type": "L",
+            "statement": "I design collaborative tasks with built-in accountability structures so that unequal contribution is structurally less likely, not just addressed after it happens.",
+            "scenario": "You assign a group task and one student ends up doing most of the work while others contribute minimally."
+          },
+          {
+            "id": 80,
+            "type": "L",
+            "statement": "I explicitly teach and assess collaboration skills such as active listening, equitable contribution, constructive disagreement, and shared decision-making as learning outcomes in their own right.",
+            "scenario": "You want students to develop genuine collaboration skills rather than just completing group tasks."
+          },
+          {
+            "id": 81,
+            "type": "L",
+            "statement": "I deliberately structure collaborative groupings to build cross-group relationships and social learning, rather than allowing self-selected groups that reinforce existing social divisions.",
+            "scenario": "Students from different social groups within the class avoid working with each other when given a choice."
+          },
+          {
+            "id": 82,
+            "type": "L",
+            "statement": "I design collaborative learning structures that build confidence and participation progressively, offering scaffolds for students who find social learning contexts challenging.",
+            "scenario": "A student who is shy and socially anxious is required to present their group's work to the class."
+          },
+          {
+            "id": 83,
+            "type": "L",
+            "statement": "I provide explicit protocols and discussion frameworks that give peer learning depth and focus, rather than assuming students know how to learn from each other without structured support.",
+            "scenario": "Students are engaged in peer learning, but the discussions are shallow and quickly go off task."
+          },
+          {
+            "id": 84,
+            "type": "O",
+            "statement": "Describe a collaborative learning structure you have used that produced genuine peer learning rather than just group task completion. What made it work, and what would you change if you ran it again?"
+          }
+        ]
+      },
+      {
+        "code": "S4",
+        "name": "Student Voice, Agency, and Choice",
+        "questions": [
+          {
+            "id": 85,
+            "type": "L",
+            "statement": "I build genuine student choice into unit design in ways that maintain rigour and alignment to outcomes, rather than offering superficial choices that do not affect how students learn.",
+            "scenario": "You are designing a unit and wondering how much flexibility to give students in how they demonstrate their learning."
+          },
+          {
+            "id": 86,
+            "type": "L",
+            "statement": "I take student suggestions seriously as curriculum feedback, and I can explain to students whether and why I have incorporated or declined their input.",
+            "scenario": "A student makes a suggestion about how a class activity could be restructured to be more engaging."
+          },
+          {
+            "id": 87,
+            "type": "L",
+            "statement": "I collect student feedback through structured processes, analyse it with genuine openness, and make visible changes in response to it rather than treating it as a compliance exercise.",
+            "scenario": "You are seeking student feedback on your teaching at the end of a unit."
+          },
+          {
+            "id": 88,
+            "type": "L",
+            "statement": "I actively diagnose and address learned passivity in students by gradually transferring more decision-making authority to them throughout the year.",
+            "scenario": "Students in your class seem to approach learning passively, waiting to be told what to do at each step."
+          },
+          {
+            "id": 89,
+            "type": "O",
+            "statement": "Describe a specific instance where student voice or input meaningfully changed something about how your classroom or a unit was structured. What did the student say or do, and what did you change as a result?"
+          },
+          {
+            "id": 90,
+            "type": "L",
+            "statement": "I facilitate structured processes for gathering and analysing student voice that go beyond asking for opinions, ensuring input is specific, representative, and usable.",
+            "scenario": "Your school is designing a new course and asks teachers to gather student input on what should be included."
+          }
+        ]
+      },
+      {
+        "code": "S5",
+        "name": "Future-Ready and Adaptive Thinking",
+        "questions": [
+          {
+            "id": 91,
+            "type": "L",
+            "statement": "I can articulate a compelling, educationally grounded rationale for what learning means in an age of instant information access, and I use this to shape how I design learning rather than just as a verbal defence.",
+            "scenario": "A student asks why they need to learn a concept that they can simply look up on their phone in ten seconds."
+          },
+          {
+            "id": 92,
+            "type": "L",
+            "statement": "I deliberately include unstructured, ambiguous, or ill-defined problems in my teaching so students develop tolerance for uncertainty and adaptive thinking strategies.",
+            "scenario": "You are planning a unit and want students to develop resilience and the ability to cope with ambiguous, open-ended problems."
+          },
+          {
+            "id": 93,
+            "type": "L",
+            "statement": "I adapt my teaching approach and the learning environment in response to real-world disruptions, treating student adaptability and resilience as outcomes I actively develop, not just expect.",
+            "scenario": "A significant disruption such as a public health event, a major technological shift, or a social crisis has occurred and is affecting student engagement and mood."
+          },
+          {
+            "id": 94,
+            "type": "L",
+            "statement": "I design learning experiences where transfer is explicit: students are asked to apply skills and concepts to unfamiliar contexts, not just master them within the subject.",
+            "scenario": "You want students to develop transferable skills that they can apply across subjects and into their lives beyond school."
+          },
+          {
+            "id": 95,
+            "type": "L",
+            "statement": "I address future-readiness concerns not with reassurance alone but by building learner agency, adaptability, and problem-solving capacity through how I design learning.",
+            "scenario": "A group of students expresses anxiety about what their future holds given how rapidly the world is changing."
+          },
+          {
+            "id": 96,
+            "type": "O",
+            "statement": "Describe a learning experience you designed that explicitly prepared students for complex, uncertain, or real-world challenges. What competencies did you target, how did you design for them, and what evidence did you see that students developed them?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "domain4",
+    "title": "Domain 4: Digital Competence",
+    "shortTitle": "Digital Competence",
+    "bronfenbrenner": "Exosystem",
+    "color": "#006B4F",
+    "strands": [
+      {
+        "code": "S1",
+        "name": "Digital Pedagogical Design",
+        "questions": [
+          {
+            "id": 97,
+            "type": "L",
+            "statement": "I select digital tools based on a clearly articulated pedagogical rationale aligned to my learning objectives, not based on familiarity, novelty, or availability.",
+            "scenario": "You are planning a lesson and considering which digital tool to use."
+          },
+          {
+            "id": 98,
+            "type": "L",
+            "statement": "I can explain specifically how my use of technology enhances, extends, or transforms the learning experience in ways that would not be possible without it.",
+            "scenario": "A colleague asks how a digital tool you use in class actually improves learning rather than just replacing a non-digital method."
+          },
+          {
+            "id": 99,
+            "type": "L",
+            "statement": "I critically evaluate new tools against learning objectives, student readiness, and institutional context before integrating them, rather than adopting them because they are new.",
+            "scenario": "You discover a promising new educational technology that could support a unit you are about to teach."
+          },
+          {
+            "id": 100,
+            "type": "L",
+            "statement": "I plan for technological failure: I have alternative approaches ready and respond to disruptions calmly and with pedagogical continuity.",
+            "scenario": "A lesson that relied on a specific digital tool fails because of a technical problem mid-class."
+          },
+          {
+            "id": 101,
+            "type": "L",
+            "statement": "I design digital learning experiences that are adaptable to different levels of technology access, ensuring no student is educationally disadvantaged by infrastructure gaps.",
+            "scenario": "Your school's digital infrastructure and device availability is inconsistent across different classes."
+          },
+          {
+            "id": 102,
+            "type": "O",
+            "statement": "Describe a lesson or unit where technology genuinely transformed the learning experience for students rather than simply digitising what you would have done anyway. What was the specific pedagogical gain, and how do you know?"
+          }
+        ]
+      },
+      {
+        "code": "S2",
+        "name": "Empowering Student Agency through Technology",
+        "questions": [
+          {
+            "id": 103,
+            "type": "L",
+            "statement": "I regularly audit my technology use to check whether students are primarily consumers of digital content I have created, or whether they are using technology to create, decide, and lead their own learning.",
+            "scenario": "Students are using devices in your classroom predominantly to follow your presentation or complete structured tasks you have set."
+          },
+          {
+            "id": 104,
+            "type": "L",
+            "statement": "I design digital tasks where students make real choices about how to represent, communicate, or present their learning using technology, rather than following a fixed template.",
+            "scenario": "You want students to use technology to demonstrate their understanding in a way that reflects their individual voice and thinking."
+          },
+          {
+            "id": 105,
+            "type": "L",
+            "statement": "I respond to student-initiated technology use with curiosity and openness, evaluating it on pedagogical grounds rather than restricting it because it falls outside my own experience.",
+            "scenario": "A student uses a digital tool you have not encountered before to complete an assignment in an innovative way."
+          },
+          {
+            "id": 106,
+            "type": "L",
+            "statement": "I build explicit scaffolds for student agency in digital work, progressively withdrawing support so that students develop independent capability rather than dependency on my direction.",
+            "scenario": "You are designing a long-term project where students will use technology to research, create, and present."
+          },
+          {
+            "id": 107,
+            "type": "O",
+            "statement": "Describe a digital learning task you designed where students had genuine agency: they made meaningful choices about tools, process, or product. What did student ownership look like in practice, and what was the impact on learning quality?"
+          },
+          {
+            "id": 108,
+            "type": "L",
+            "statement": "I differentiate how I introduce and scaffold digital tools so that less confident students develop capability without being left behind, while more advanced students are extended.",
+            "scenario": "Students in your class have very different levels of digital skill and confidence."
+          }
+        ]
+      },
+      {
+        "code": "S3",
+        "name": "Digital Content Creation and Curation",
+        "questions": [
+          {
+            "id": 109,
+            "type": "L",
+            "statement": "I curate digital resources with deliberate criteria: pedagogical effectiveness, accessibility, currency, credibility, and alignment to learner needs rather than simply collecting whatever is available.",
+            "scenario": "You are building a repository of digital resources for your students."
+          },
+          {
+            "id": 110,
+            "type": "L",
+            "statement": "I teach students structured curation skills including how to search effectively, evaluate sources, organise information, and attribute it correctly.",
+            "scenario": "A student asks where they can find reliable and relevant digital content on a topic they are researching independently."
+          },
+          {
+            "id": 111,
+            "type": "L",
+            "statement": "I design digital creation tasks that require students to transform knowledge into a new form rather than simply compiling or reproducing existing information.",
+            "scenario": "You want students to create a digital product that demonstrates their understanding of a complex topic."
+          },
+          {
+            "id": 112,
+            "type": "L",
+            "statement": "I maintain and update digital content I create for students, treating my digital resources as living materials rather than one-time creations.",
+            "scenario": "A digital resource you created for students last year is still being used, but the information in it is now outdated."
+          },
+          {
+            "id": 113,
+            "type": "L",
+            "statement": "I create digital resources that are well-organised, clearly annotated, and designed for use by other educators, not only for my own classroom.",
+            "scenario": "You want to share a digital resource you have developed with colleagues across your school or institution."
+          },
+          {
+            "id": 114,
+            "type": "O",
+            "statement": "Describe a digital content resource you designed or curated for students that went beyond simply sharing information. What made it pedagogically effective, and how did you evaluate whether it achieved its intended purpose?"
+          }
+        ]
+      },
+      {
+        "code": "S4",
+        "name": "Assessment and Feedback with Technology",
+        "questions": [
+          {
+            "id": 115,
+            "type": "L",
+            "statement": "I use digital formative assessment tools to generate real-time data that I actually act on in subsequent lessons, rather than collecting data that I do not have time or a system to use.",
+            "scenario": "You are using an online quiz tool to check student understanding at the end of a lesson."
+          },
+          {
+            "id": 116,
+            "type": "L",
+            "statement": "I leverage digital tools to increase the frequency and immediacy of feedback students receive, while ensuring the automated feedback is accurate, relevant, and pedagogically sound.",
+            "scenario": "You want to give students more frequent feedback than is possible if you mark all work manually."
+          },
+          {
+            "id": 117,
+            "type": "L",
+            "statement": "I can read, interpret, and act on learning analytics data to make instructional adjustments rather than treating digital reports as administrative outputs.",
+            "scenario": "A digital assessment platform generates a learning analytics report on your class's performance patterns."
+          },
+          {
+            "id": 118,
+            "type": "L",
+            "statement": "I have developed practical strategies for designing and evaluating digital submissions in an environment where AI-assisted writing is a reality, rather than relying only on detection tools.",
+            "scenario": "Students are submitting work digitally and some submissions show signs of AI-generated content."
+          },
+          {
+            "id": 119,
+            "type": "O",
+            "statement": "Describe how you currently use technology to improve assessment or feedback in your classroom. What specifically does the technology enable that you could not do as effectively without it? What are the limitations you have encountered?"
+          },
+          {
+            "id": 120,
+            "type": "L",
+            "statement": "I engage with new institutional assessment technology as an active contributor: I learn its capabilities, test its effectiveness, and provide evidence-based feedback on its pedagogical value.",
+            "scenario": "Your institution is investing in a new learning management system that includes assessment and feedback features."
+          }
+        ]
+      },
+      {
+        "code": "S5",
+        "name": "AI Literacy and Ethical Use of EdTech",
+        "questions": [
+          {
+            "id": 121,
+            "type": "L",
+            "statement": "I have sufficient understanding of how AI tools function, including their limitations and bias risks, to answer student questions accurately and model critical AI literacy.",
+            "scenario": "A student asks you how an AI recommendation algorithm works and whether it can be biased."
+          },
+          {
+            "id": 122,
+            "type": "L",
+            "statement": "I evaluate AI-powered educational tools against criteria that include pedagogical effectiveness, algorithmic transparency, data privacy, and potential for bias before adopting them.",
+            "scenario": "You are considering using an AI tool to personalise learning pathways for students in your class."
+          },
+          {
+            "id": 123,
+            "type": "L",
+            "statement": "I contribute substantively to institutional AI policy discussions based on classroom experience and an understanding of the educational, ethical, and governance dimensions of AI adoption.",
+            "scenario": "Your institution is developing a policy on the use of AI tools in teaching and assessment."
+          },
+          {
+            "id": 124,
+            "type": "L",
+            "statement": "I have a clear, educationally grounded framework for how AI-assisted work should be approached, disclosed, and evaluated in my subject, and I communicate this framework to students with reasons.",
+            "scenario": "A student uses an AI tool to generate a draft of their assignment and then edits it before submission."
+          },
+          {
+            "id": 125,
+            "type": "L",
+            "statement": "I demonstrate how to use AI tools critically and ethically in front of students, including verifying outputs, questioning assumptions, and identifying limitations.",
+            "scenario": "You want to model responsible AI use for your students during a lesson."
+          },
+          {
+            "id": 126,
+            "type": "O",
+            "statement": "Describe your current position on the use of AI tools in learning and assessment in your subject. What principles guide this position, how do you communicate it to students, and how has your position evolved as the technology has changed?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "domain5",
+    "title": "Domain 5: Professional Engagement",
+    "shortTitle": "Professional Engagement",
+    "bronfenbrenner": "Exosystem",
+    "color": "#8B1A2E",
+    "strands": [
+      {
+        "code": "S1",
+        "name": "Professional Learning and Networking through Collaboration",
+        "questions": [
+          {
+            "id": 127,
+            "type": "L",
+            "statement": "I engage with professional learning opportunities as an active contributor, sharing what I know while remaining genuinely open to encountering perspectives that challenge or extend my understanding.",
+            "scenario": "Your institution offers a professional development workshop on a topic you feel you already know well."
+          },
+          {
+            "id": 128,
+            "type": "L",
+            "statement": "I engage in collaborative planning as a genuine thinking partner, contributing ideas and also integrating my colleague's thinking into my practice rather than simply dividing the work.",
+            "scenario": "A colleague invites you to co-plan a series of lessons together."
+          },
+          {
+            "id": 129,
+            "type": "L",
+            "statement": "I maintain active professional networks beyond my institution that regularly expose me to new ideas, research, and perspectives that influence how I teach.",
+            "scenario": "You have come across a professional community of practice or network in your field that meets online or at conferences."
+          },
+          {
+            "id": 130,
+            "type": "L",
+            "statement": "I contribute to colleague development through specific, evidence-grounded support rather than simply sharing what works for me without connecting it to the colleague's particular context.",
+            "scenario": "A junior colleague is struggling with a particular aspect of their teaching and asks for your help."
+          },
+          {
+            "id": 131,
+            "type": "O",
+            "statement": "Describe a professional collaboration you have engaged in that produced a measurable improvement in teaching or learning outcomes. What was the collaboration, what was your role in it, and what specific change did it produce?"
+          },
+          {
+            "id": 132,
+            "type": "L",
+            "statement": "I share effective practice with colleagues proactively and in forms they can actually use, rather than keeping it within my own classroom.",
+            "scenario": "You have developed a teaching resource, approach, or insight that significantly improved learning outcomes in your class."
+          }
+        ]
+      },
+      {
+        "code": "S2",
+        "name": "Reflective Practice for Teaching Improvement",
+        "questions": [
+          {
+            "id": 133,
+            "type": "L",
+            "statement": "I analyse unsuccessful lessons using specific evidence from student responses and my own observation, and I make targeted changes to my next lesson based on that analysis.",
+            "scenario": "A lesson you taught last week did not achieve the learning outcome you had planned."
+          },
+          {
+            "id": 134,
+            "type": "L",
+            "statement": "I treat critical feedback on my teaching as diagnostic information and respond with specific adjustments, rather than explaining why the feedback is wrong or dismissing it as student perception.",
+            "scenario": "You receive student feedback indicating that your explanations are sometimes unclear."
+          },
+          {
+            "id": 135,
+            "type": "L",
+            "statement": "I conduct structured end-of-term reflections using evidence from student data, feedback, and observations rather than relying on general impressions of how the term went.",
+            "scenario": "You are at the end of a term and reflecting on your overall teaching effectiveness."
+          },
+          {
+            "id": 136,
+            "type": "L",
+            "statement": "I respond to peer observation feedback with genuine reflection rather than defensiveness, and I can describe how I used the feedback to change something specific in my practice.",
+            "scenario": "A colleague observes your lesson and offers feedback that surprises or challenges you."
+          },
+          {
+            "id": 137,
+            "type": "L",
+            "statement": "I periodically subject even well-established units to fresh scrutiny using current student data and updated professional knowledge rather than assuming familiarity equates to effectiveness.",
+            "scenario": "You have been teaching the same unit for several years and believe you have it well-refined."
+          },
+          {
+            "id": 138,
+            "type": "O",
+            "statement": "Describe your current reflective practice routine. How often do you reflect, what evidence do you draw on, and can you give a specific example of something you changed in your teaching as a direct result of structured reflection?"
+          }
+        ]
+      },
+      {
+        "code": "S3",
+        "name": "Classroom-Centred Practitioner Research",
+        "questions": [
+          {
+            "id": 139,
+            "type": "L",
+            "statement": "I frame recurring classroom problems as researchable questions, design a simple inquiry to investigate them, and use the findings to adjust my practice rather than attributing the problem to the students.",
+            "scenario": "You notice a recurring pattern in how your students struggle with a particular type of task across multiple units."
+          },
+          {
+            "id": 140,
+            "type": "L",
+            "statement": "I test new instructional approaches in my classroom with enough rigour to distinguish whether improved outcomes are due to the new strategy or other factors, rather than accepting or rejecting claims anecdotally.",
+            "scenario": "A colleague suggests a new instructional strategy that they believe produces better outcomes."
+          },
+          {
+            "id": 141,
+            "type": "L",
+            "statement": "I collect and compare before-and-after evidence when I make significant changes to my practice, so I can evaluate whether the change produced the intended effect.",
+            "scenario": "You want to know whether a change you made to your assessment approach actually improved student performance."
+          },
+          {
+            "id": 142,
+            "type": "L",
+            "statement": "I engage with educational research critically and practically, evaluating its relevance to my context and making specific adjustments to my practice when the evidence supports it.",
+            "scenario": "A research article you read presents findings that contradict how you currently teach a particular concept."
+          },
+          {
+            "id": 143,
+            "type": "O",
+            "statement": "Describe a small-scale classroom inquiry or action research cycle you have conducted. What question did you investigate, how did you gather evidence, what did you find, and what did you change as a result?"
+          },
+          {
+            "id": 144,
+            "type": "L",
+            "statement": "I can document and articulate my teaching practice in evidence-based terms that are useful to colleagues, not just describe what I do but explain why and with what evidence of impact.",
+            "scenario": "Your institution asks you to present your teaching practice at an internal professional learning session."
+          }
+        ]
+      },
+      {
+        "code": "S4",
+        "name": "Data-Driven Planning and Adaptive Practice",
+        "questions": [
+          {
+            "id": 145,
+            "type": "L",
+            "statement": "I use historical assessment data, intake information, and diagnostic results to shape my planning from the start of a year rather than beginning with a generic plan and adapting later.",
+            "scenario": "You are beginning to plan a new academic year for a class with mixed prior performance data."
+          },
+          {
+            "id": 146,
+            "type": "L",
+            "statement": "I investigate the specific causes of performance gaps using disaggregated data rather than applying a generic intervention to the whole class.",
+            "scenario": "Mid-year data shows that student performance in your subject is trending below expected levels."
+          },
+          {
+            "id": 147,
+            "type": "L",
+            "statement": "I notice and respond to individual performance trends proactively before they become entrenched, using data as an early warning system rather than a retrospective record.",
+            "scenario": "A student's performance data shows steady decline over a six-week period."
+          },
+          {
+            "id": 148,
+            "type": "L",
+            "statement": "I track learner outcomes in structured ways that allow me to evaluate the effectiveness of changes to my practice with genuine evidence rather than impressionistic judgement.",
+            "scenario": "You want to evaluate whether a new teaching strategy you introduced this year actually improved outcomes."
+          },
+          {
+            "id": 149,
+            "type": "L",
+            "statement": "I treat data-informed planning as a genuine professional discipline rather than an administrative requirement, and my plans show clear, traceable connections between evidence and instructional decisions.",
+            "scenario": "Your school requires you to submit a data-informed teaching and learning plan at the start of each unit."
+          },
+          {
+            "id": 150,
+            "type": "O",
+            "statement": "Describe how data currently shapes your planning and teaching decisions across a typical term. What data do you use, how do you organise it, and can you give a specific example of a decision that data directly prompted?"
+          }
+        ]
+      },
+      {
+        "code": "S5",
+        "name": "Teacher Well-Being and Professional Sustainability",
+        "questions": [
+          {
+            "id": 151,
+            "type": "L",
+            "statement": "I have structured, pre-planned strategies for managing workload surges that I activate before I am already overwhelmed, rather than coping reactively once the pressure has peaked.",
+            "scenario": "You are entering a period of peak workload with multiple overlapping deadlines and commitments."
+          },
+          {
+            "id": 152,
+            "type": "L",
+            "statement": "I actively advocate for sustainable working conditions for colleagues as well as myself, and I model professional boundaries in ways that give others permission to do the same.",
+            "scenario": "A colleague tells you they have not taken a proper break during the school day in over a month."
+          },
+          {
+            "id": 153,
+            "type": "L",
+            "statement": "I have a conscious and healthy approach to managing the emotional labour of teaching, including strategies for decompressing and maintaining boundaries between professional and personal life.",
+            "scenario": "You find that emotional demands from students' personal difficulties are affecting your own well-being outside working hours."
+          },
+          {
+            "id": 154,
+            "type": "L",
+            "statement": "I contribute to building an institutional culture where well-being is treated as a structural and collective responsibility rather than an individual's private concern.",
+            "scenario": "Your institution offers a staff well-being initiative, but participation is low because teachers feel too busy to engage."
+          },
+          {
+            "id": 155,
+            "type": "L",
+            "statement": "I make deliberate decisions about how I invest my professional time and energy, saying no to commitments that do not serve my core purpose when that is necessary to sustain my effectiveness.",
+            "scenario": "You are reviewing your professional workload and notice that several of your commitments do not directly contribute to teaching or student learning."
+          },
+          {
+            "id": 156,
+            "type": "O",
+            "statement": "Describe the specific practices you rely on to sustain your professional effectiveness and personal well-being over a full academic year. What works, what has broken down under pressure, and what would you like to develop further?"
+          }
+        ]
+      }
+    ]
+  }
+]
