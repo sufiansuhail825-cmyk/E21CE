@@ -1,0 +1,626 @@
+[
+  {
+    "strandCode": "1.1",
+    "strandName": "Content Knowledge and Disciplinary Expertise",
+    "domainKey": "domain1",
+    "intro": "These scenarios explore how you draw on and apply your subject-matter knowledge in real teaching situations. There is no strictly right or wrong answer — respond as honestly as you can based on what you would actually do.",
+    "questions": [
+      {
+        "id": "s1_q1",
+        "scenario": "You are planning a unit and need to decide how to structure the key concepts and specific content across 12 lessons. You want learners to build a secure understanding rather than just covering the material.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would follow the order in the textbook or scheme of work, covering each topic as it comes.",
+          "I would group related topics together and sequence them so that earlier lessons build the knowledge needed for later ones.",
+          "I would map the conceptual dependencies first — identifying which ideas must come before others — and design the sequence around that logic.",
+          "I would map the conceptual architecture of the unit, sequence it around big ideas and disciplinary reasoning, and build in explicit moments where learners construct and test the connections between concepts."
+        ]
+      },
+      {
+        "id": "s1_q2",
+        "scenario": "Your unit introduces significant specialist vocabulary that learners have not encountered before. You want them to be able to use these terms accurately and with understanding, not just recognise them.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would provide a glossary and ask learners to look up definitions before using the terms.",
+          "I would introduce each term when it first appears, explain it clearly, and use it consistently throughout the unit.",
+          "I would build explicit vocabulary instruction into the unit — introducing terms in context, providing multiple exposures, and giving learners structured opportunities to use them.",
+          "I would treat vocabulary development as a disciplinary literacy goal — using strategies like concept mapping, comparative analysis of terms, and building learners' ability to use language the way practitioners in the field do."
+        ]
+      },
+      {
+        "id": "s1_q3",
+        "scenario": "You have inherited a unit from a colleague and notice that Topic 3 assumes knowledge of Topic 5, which comes later in the sequence. Learners are due to start next week.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would teach the unit in the order I received it and clarify any confusion as it comes up.",
+          "I would reorder Topics 3 and 5 before starting the unit.",
+          "I would review the whole unit for similar sequencing issues, reorder what's necessary, and adjust the tasks to align with the new sequence.",
+          "I would audit the unit for conceptual dependencies, restructure it around a logical knowledge progression, and flag the issue to my department so the unit can be improved for future cohorts."
+        ]
+      },
+      {
+        "id": "s1_q4",
+        "scenario": "You discover that 60% of your class holds a specific misconception about a core concept — one you know from experience is hard to shift and often resurfaces even after direct teaching.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would explain the correct concept clearly and move on, trusting that the explanation addresses the misconception.",
+          "I would address the misconception explicitly, correct it, and check for understanding before continuing.",
+          "I would design a lesson specifically around the misconception — surfacing it, creating cognitive conflict, and helping learners rebuild the concept more accurately.",
+          "I would treat the misconception as a diagnostic tool, use it to understand the underlying conceptual gap, design targeted instruction to address the root cause, and build in checks over time to confirm the shift has held."
+        ]
+      },
+      {
+        "id": "s1_q5",
+        "scenario": "You are using sources in a lesson that have different levels of reliability — some peer-reviewed, some popular media, some contested. Your learners have no prior experience evaluating sources.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would tell learners which sources to use and which to avoid.",
+          "I would briefly explain what makes a source reliable and point learners to the stronger ones.",
+          "I would teach learners a framework for evaluating sources and give them structured practice applying it within this lesson.",
+          "I would use source evaluation as a disciplinary thinking skill — teaching learners how experts in this field assess evidence, building their capacity to interrogate sources independently, and connecting this to how knowledge is constructed and contested in the discipline."
+        ]
+      },
+      {
+        "id": "s1_q6",
+        "scenario": "Your learners are completing an independent piece of disciplinary work — a research task, a design challenge, or a structured investigation — for the first time. You want the work to genuinely reflect their disciplinary thinking, not just task completion.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would give clear instructions and be available to answer questions as they work.",
+          "I would scaffold the task with structured steps and check in at key points to keep learners on track.",
+          "I would provide a framework for the disciplinary process itself — modelling how experts approach this type of task — and build in reflection points where learners evaluate their own thinking.",
+          "I would explicitly teach the disciplinary habits of mind behind the task, model the reasoning process, give learners graduated independence, and use the work as an opportunity to develop their identity as a practitioner in the field."
+        ]
+      },
+      {
+        "id": "s1_q7",
+        "scenario": "You are teaching a Year 9 class when a learner raises a question about a genuine area of expert disagreement in your discipline — one where the field hasn't reached consensus. You have 15 seconds before you need to respond.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 15,
+        "options": [
+          "I would give the most commonly accepted answer to avoid confusion.",
+          "I would tell the learner it's a complicated area and come back to it next lesson.",
+          "I would acknowledge there's genuine disagreement, give a brief summary of the main positions, and keep the lesson moving.",
+          "I would name the disagreement directly, frame it as what good disciplinary thinking looks like, and use it as a live example of how the field wrestles with hard questions — before redirecting the lesson."
+        ]
+      },
+      {
+        "id": "s1_q8",
+        "scenario": "A learner asks a question that goes well beyond the syllabus — it's a real disciplinary question that expert practitioners would find interesting. There are 15 minutes left in the lesson.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 15,
+        "options": [
+          "I would acknowledge it's a great question and suggest the learner look it up independently.",
+          "I would give a brief answer to keep the lesson on track.",
+          "I would engage with the question meaningfully, share what I know, and acknowledge the limits of my own knowledge if necessary.",
+          "I would treat it as a genuine intellectual opportunity — engage with it seriously, model how I'd think through it as a practitioner, and use it to open up the discipline beyond the syllabus before bringing the class back to the learning goal."
+        ]
+      }
+    ]
+  },
+  {
+    "strandCode": "1.2",
+    "strandName": "Interdisciplinary Awareness",
+    "domainKey": "domain1",
+    "intro": "These scenarios explore how you handle connections between your subject and other disciplines — in planning, in the classroom, and in collaboration with colleagues.",
+    "questions": [
+      {
+        "id": "s2_q1",
+        "scenario": "You are planning a unit that has natural connections to another discipline — one you know less well. You could teach it within your subject only, or find a way to bring in the other discipline.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would teach within my subject and avoid the other discipline to stay in my area of competence.",
+          "I would make brief references to the other discipline when it comes up naturally in the lesson.",
+          "I would map out the key connections before planning, then design specific moments in the unit where the link is made explicit for learners.",
+          "I would reach out to a colleague in the other discipline to understand how they'd frame the connection, co-design those moments in the unit, and build learners' capacity to think across both disciplines."
+        ]
+      },
+      {
+        "id": "s2_q2",
+        "scenario": "You have a mixed class where some learners naturally make interdisciplinary connections and others find it confusing or irrelevant. You want everyone to engage with the cross-disciplinary thinking in the unit.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would focus on my subject's core learning goals and leave interdisciplinary connections as optional enrichment.",
+          "I would acknowledge different responses and teach the connection in a way that suits most of the class.",
+          "I would differentiate — giving those who find it confusing more structured support, and those who are drawn to it space to explore further.",
+          "I would treat the variation in response as a teaching opportunity — unpacking why the connections matter, scaffolding the thinking for those who struggle, and using the enthusiasm of others to model what interdisciplinary reasoning looks like."
+        ]
+      },
+      {
+        "id": "s2_q3",
+        "scenario": "You are co-teaching a unit with a colleague from another subject. A learner asks which of you is 'right' about a concept where your two disciplines genuinely give different answers.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would defer to my colleague for their subject and give my own subject's answer for mine.",
+          "I would acknowledge both perspectives and explain that the answer depends on which discipline you're working within.",
+          "I would use the disagreement as a teaching moment — showing learners that disciplines use different frameworks, and that understanding the difference is part of what we're trying to teach.",
+          "I would frame it as an example of how knowledge is constructed differently across disciplines, model how to reason through the tension, and help learners develop the capacity to hold and navigate multiple disciplinary perspectives."
+        ]
+      },
+      {
+        "id": "s2_q4",
+        "scenario": "You and a colleague from another department are designing a joint unit together. You disagree about what the driving question should be. The unit starts in two days.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would defer to my colleague to preserve the working relationship.",
+          "I would suggest we each use a version that suits our subject.",
+          "I would propose a compromise question that incorporates both of our priorities, even if it's not exactly what either of us wanted.",
+          "I would treat the disagreement as a design problem — unpacking what each of us is trying to achieve, finding the question that genuinely serves both disciplines, and if we're stuck, proposing a clear decision process before the deadline."
+        ]
+      },
+      {
+        "id": "s2_q5",
+        "scenario": "During a lesson, a learner makes a connection to a concept from a colleague's subject — one where your knowledge is limited. There are 20 minutes left and the class is engaged.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would acknowledge it and move on — I don't want to go beyond my expertise.",
+          "I would engage with it as best I can and note that you'd want to check with a colleague before confirming the connection.",
+          "I would explore the connection with the class, acknowledge the limits of your knowledge openly, and suggest the class investigate it further — perhaps by talking to the relevant colleague.",
+          "I would use it as a live interdisciplinary moment — modelling how to think across disciplines, being transparent about the edges of my own expertise, and turning it into a genuine inquiry the class could pursue."
+        ]
+      },
+      {
+        "id": "s2_q6",
+        "scenario": "You are co-teaching a unit with a colleague, but the workload has fallen mostly on you. There are two weeks until the end of the unit.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would absorb the extra work and finish the unit without raising it.",
+          "I would mention to my colleague that the workload has been uneven and hope it balances out.",
+          "I would have a direct conversation with my colleague, name the imbalance clearly, and work out how to redistribute the remaining tasks.",
+          "I would have an honest and constructive conversation about the imbalance, agree on a fair split for the remainder, and after the unit, reflect together on how to structure co-teaching more sustainably."
+        ]
+      },
+      {
+        "id": "s2_q7",
+        "scenario": "A learner refers to a concept from another discipline mid-explanation. You have about 5 seconds before you need to respond.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 5,
+        "options": [
+          "I would redirect to the current topic without engaging with the cross-disciplinary reference.",
+          "I would briefly acknowledge it and keep going.",
+          "I would pause, validate the connection, and briefly show how the two ideas relate before continuing.",
+          "I would name the connection explicitly, show the learner what disciplinary thinking looks like when you bridge two fields, and use the moment to model how experts move between disciplines."
+        ]
+      },
+      {
+        "id": "s2_q8",
+        "scenario": "You are co-teaching with a colleague, and a discussion breaks out where learners start treating your colleague's discipline as 'softer' or less rigorous than yours. There are 15 seconds before you need to respond.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 15,
+        "options": [
+          "I would let my colleague handle it — it's their subject being questioned.",
+          "I would note that all subjects have their own rigor and move on.",
+          "I would directly challenge the assumption, explain why that view misunderstands how different disciplines work, and give a concrete example.",
+          "I would name the assumption explicitly, model what it looks like to take both disciplines seriously as ways of knowing, and turn it into a brief but real conversation about epistemic respect — before getting back to the lesson."
+        ]
+      }
+    ]
+  },
+  {
+    "strandCode": "1.3",
+    "strandName": "Learner-Centred Planning and Teaching",
+    "domainKey": "domain1",
+    "intro": "These scenarios explore how you plan and adapt your teaching around learner needs, prior knowledge, and readiness.",
+    "questions": [
+      {
+        "id": "s3_q1",
+        "scenario": "You are starting a unit on argumentative writing. You have no baseline data on where your class is with argumentation. You want to plan the unit so it actually meets your learners where they are.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would begin the unit and adjust based on how learners respond to the first few tasks.",
+          "I would use a short diagnostic task in the first lesson to get a sense of where most learners are.",
+          "I would design a diagnostic that gives me specific information about each learner's current argumentative writing skills, then use it to plan differentiated pathways through the unit.",
+          "I would design a diagnostic that surfaces not just skill level but also learners' beliefs about argumentation and their prior experience — then use that to build a unit that genuinely responds to where each learner is, rather than where I assumed they'd be."
+        ]
+      },
+      {
+        "id": "s3_q2",
+        "scenario": "Your class has a wide range of prior knowledge: 6 learners have no foundation in the topic, 15 are where you expected them to be, and 7 are well ahead. You have 4 lessons before an assessment.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would pitch to the middle and trust that the 6 will catch up and the 7 won't get too bored.",
+          "I would provide extension tasks for the 7 and spend more time supporting the 6.",
+          "I would design three differentiated pathways that give each group appropriate challenge and support across all four lessons.",
+          "I would redesign the four lessons around learning goals rather than content delivery — building structured independence into the tasks so each learner can work at their actual level, with targeted group instruction where the gap is widest."
+        ]
+      },
+      {
+        "id": "s3_q3",
+        "scenario": "Your class is mixed but close — most learners are near the expected standard. You have a specific standard to work toward. You are deciding whether to differentiate or teach the class as a whole.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would teach the whole class — if most learners are close, differentiation isn't necessary.",
+          "I would teach the whole class but adjust my language and examples to support the range.",
+          "I would plan for differentiation at the task level — same goal, but with scaffolded and extension versions of the key activity.",
+          "I would design the lesson so that differentiation is built into the structure itself — using a core task accessible to all, with built-in scaffolding that fades as learners demonstrate readiness, rather than treating it as a separate provision."
+        ]
+      },
+      {
+        "id": "s3_q4",
+        "scenario": "Your class wants to have a discussion, but the upcoming assessment expects content coverage. Both matter to you.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would prioritise the content coverage — the assessment is the priority.",
+          "I would have the discussion but keep it short to preserve most of the lesson for content.",
+          "I would design the discussion around the content — using it as a method for covering the material, not a detour from it.",
+          "I would treat the tension as a design problem: building a structured discussion where the process of talking through the ideas is itself how learners build the knowledge — so the discussion serves both goals without compromising either."
+        ]
+      },
+      {
+        "id": "s3_q5",
+        "scenario": "You are trialling learner voice in your planning. Three learners say they just want you to tell them what to do — they find open choices overwhelming. The rest of the class is engaged with the approach.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would acknowledge their preference and give those three more structured tasks while the rest continue as planned.",
+          "I would check in with them to understand what's making it hard and adjust their experience accordingly.",
+          "I would talk with those learners, explore what's behind the discomfort, and co-design a version of the approach that builds their capacity for choice gradually.",
+          "I would treat their response as diagnostic — using it to understand what kind of agency-building those learners actually need, redesigning their pathway so that learner voice is developed as a skill rather than assumed, and using what I learn to improve the approach for future iterations."
+        ]
+      },
+      {
+        "id": "s3_q6",
+        "scenario": "A formative checkpoint shows learners are behind where you expected. There are 4 lessons left before the fixed assessment date.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would speed up the pace to cover what's left before the assessment.",
+          "I would prioritise the most important content and skills, accepting that some planned elements won't be covered.",
+          "I would analyse what the checkpoint data tells me about where the gaps are, then redesign the remaining lessons to address the most critical gaps directly.",
+          "I would use the checkpoint to diagnose not just what learners haven't learned, but why — then reconstruct the remaining lessons around closing those specific gaps, being honest with learners about the revised plan and what it means for the assessment."
+        ]
+      },
+      {
+        "id": "s3_q7",
+        "scenario": "Twenty minutes into a 45-minute lesson, about two-thirds of your class is clearly disengaged. You have 30 seconds to decide what to do.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 30,
+        "options": [
+          "I would continue with the lesson — disengagement is sometimes part of learning difficult material.",
+          "I would pause, call attention back, and re-explain the task more clearly.",
+          "I would stop, briefly check what's going wrong, and adjust the task or approach based on what I find.",
+          "I would stop the lesson, name what I'm seeing, invite a short honest response from the class, and redesign the next part of the lesson on the spot based on what I hear."
+        ]
+      },
+      {
+        "id": "s3_q8",
+        "scenario": "A learner tells you 'this whole unit isn't working for me.' You have 20 seconds before you need to respond.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 20,
+        "options": [
+          "I would tell the learner to stay with it — units are often hard in the middle.",
+          "I would acknowledge the frustration and offer to check in after class.",
+          "I would ask a quick clarifying question to understand what 'not working' means for them, then respond based on what they say.",
+          "I would take it seriously in the moment — validate it without dismissing it, ask one precise question that helps me understand what the real breakdown is, and commit to a concrete follow-up before the next lesson."
+        ]
+      }
+    ]
+  },
+  {
+    "strandCode": "1.4",
+    "strandName": "Appropriate Methodology to the End Goal",
+    "domainKey": "domain1",
+    "intro": "These scenarios explore how you select and adapt your teaching methods to match different learning goals.",
+    "questions": [
+      {
+        "id": "s4_q1",
+        "scenario": "You are planning a unit that has three distinct types of learning goals: factual recall, conceptual understanding, and disciplinary thinking. You need to decide how to approach the teaching of each.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would use the same approach for all three — a consistent method makes the unit coherent.",
+          "I would use different activities for each but within the same general method (e.g., all discussion-based or all direct instruction).",
+          "I would select different methods for each type of goal, based on what I know about how people learn each type of knowledge.",
+          "I would treat each type of goal as requiring a distinct pedagogical approach, design the methods around the specific nature of each learning goal, and make the methodological choice visible to learners so they understand why the teaching looks different for each."
+        ]
+      },
+      {
+        "id": "s4_q2",
+        "scenario": "There are 15 minutes left in the lesson. The method you are using is not delivering the core learning outcome for about half the class. You need to decide what to do right now.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would continue — switching methods with 15 minutes left would disrupt the lesson.",
+          "I would slow down and re-explain using the same method.",
+          "I would switch to a different approach for the remaining 15 minutes — something more likely to reach the learners who aren't getting it.",
+          "I would stop, briefly name what I'm noticing, and choose a more targeted method for the final stretch — one that directly addresses the gap I'm seeing, rather than just re-running the same approach."
+        ]
+      },
+      {
+        "id": "s4_q3",
+        "scenario": "You are teaching a financial literacy unit. Twelve learners have a strong grasp of percentages and ratios; 18 are struggling. Both groups need to reach the same learning goal.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would teach to the 18 — the majority need the most support.",
+          "I would teach to the middle and provide additional resources for those who are struggling.",
+          "I would design differentiated tasks — a more scaffolded version for the 18 and a more challenging application for the 12.",
+          "I would redesign the lesson so that the method itself accounts for the range — using concrete, context-rich problems that allow entry at different levels, with structured peer support built in, and progressive complexity so all learners are working at the edge of their current understanding."
+        ]
+      },
+      {
+        "id": "s4_q4",
+        "scenario": "Learners are completing an extended research-based assessment — the first time they have done one. You have 8 lessons to prepare them.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would explain the task requirements clearly and give learners time to work on it.",
+          "I would model an example of a strong response and let learners use it as a guide.",
+          "I would teach the component skills of research explicitly across the 8 lessons — source evaluation, note-taking, structuring an argument — before expecting learners to integrate them.",
+          "I would treat the 8 lessons as a deliberate apprenticeship — teaching the research process as a discipline, not just the task requirements. I would build in expert modelling, structured practice of each component, peer critique, and progressive release of responsibility so learners genuinely develop the capacity, not just the product."
+        ]
+      },
+      {
+        "id": "s4_q5",
+        "scenario": "You have used direct instruction for a content-heavy topic. End-of-unit checks show only one-third of learners can apply the content to new problems. There are three lessons left.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would re-teach the content using the same method — more carefully this time.",
+          "I would use the three lessons for practice tasks and rely on learners using their notes.",
+          "I would shift to a different method — spaced retrieval, worked examples, or problem-based practice — to help learners move from recognition to application.",
+          "I would treat the data as a signal that the method didn't match the goal. I would redesign the remaining three lessons around the specific thinking move that learners are missing — application to novel contexts — using methods that require learners to generate the knowledge rather than re-receive it."
+        ]
+      },
+      {
+        "id": "s4_q6",
+        "scenario": "You have 15 strong learners, 7 struggling significantly with abstract content, and you have tried three different explanations. None have worked for the 7.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would try the explanation one more time and hope it clicks.",
+          "I would use a more visual or concrete version of the explanation for the 7.",
+          "I would step back and try to identify what's behind the difficulty — then design a targeted explanation based on that diagnosis.",
+          "I would stop trying variations of the same explanation and treat the repeated failure as diagnostic. I would use a different instructional approach entirely — one that builds from what the 7 do understand and leads them to construct the abstraction themselves, rather than receiving it."
+        ]
+      },
+      {
+        "id": "s4_q7",
+        "scenario": "Your unit has a dual goal: cover the required content AND develop learners' capacity as practitioners in your field. You have 16 lessons.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would use the content as the focus and let practitioner capacity develop incidentally.",
+          "I would teach the content first, then add practitioner tasks in the final few lessons.",
+          "I would design the unit so that the practitioner capacity is developed through the content — using methods like inquiry, analysis, or authentic tasks that require both at once.",
+          "I would treat the two goals as inseparable and design the unit so that the method for teaching content is itself the method for developing practitioners — structuring every lesson around what practitioners in this field actually do when they encounter knowledge, so learning the content is the same act as thinking like an expert."
+        ]
+      },
+      {
+        "id": "s4_q8",
+        "scenario": "You are using a method that has worked well with previous classes, but 10 minutes in, engagement is superficial — learners are going through the motions without real thinking. You have 15 seconds to decide what to do.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 15,
+        "options": [
+          "I would continue — they may be thinking more deeply than it appears.",
+          "I would increase the pace or the stakes to re-engage learners.",
+          "I would add a prompt or question that pushes learners toward more genuine engagement.",
+          "I would stop, name what I'm seeing without judgment, and introduce a new constraint or task design that makes surface-level completion impossible — forcing the thinking the method was meant to generate."
+        ]
+      }
+    ]
+  },
+  {
+    "strandCode": "1.5",
+    "strandName": "Equity, Inclusion and Cultural Responsiveness",
+    "domainKey": "domain1",
+    "intro": "These scenarios explore how you respond to the diverse identities, needs, and circumstances of your learners — both in planning and in live teaching situations.",
+    "questions": [
+      {
+        "id": "s5_q1",
+        "scenario": "Your class includes 2 learners with documented learning differences and 3 others who are struggling but have no formal documentation. There are also strong writers who need challenge. One assessment task needs to work for all of them.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would design one task and offer additional support to those who are struggling during the work time.",
+          "I would design the task for the documented learners and let the others manage with the standard version.",
+          "I would design a task with built-in accessibility — scaffolded support and extension options that all learners can access without needing to be singled out.",
+          "I would treat the diversity in my class as the starting point for task design — building a task flexible enough to allow every learner to demonstrate genuine understanding at their level, with support and challenge embedded in the structure rather than added as afterthoughts."
+        ]
+      },
+      {
+        "id": "s5_q2",
+        "scenario": "A learner reveals difficult family circumstances mid-lesson — not in private, but within earshot of others. You have 10 seconds to respond.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 10,
+        "options": [
+          "I would acknowledge it briefly and continue the lesson to avoid drawing attention to the learner.",
+          "I would thank the learner for sharing and check in with them after class.",
+          "I would respond warmly in the moment to make the learner feel heard, signal that you will follow up privately, and continue the lesson without dwelling on it.",
+          "I would respond in a way that protects the learner's dignity in front of the class, signals genuine care without creating exposure, and creates the conditions for a private follow-up — balancing the learner's immediate emotional need with the rest of the class."
+        ]
+      },
+      {
+        "id": "s5_q3",
+        "scenario": "During class discussion, 4 learners consistently dominate. Others contribute only when directly called upon. You want to shift the pattern without embarrassing anyone.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would call on quieter learners more often to balance participation.",
+          "I would introduce discussion norms — like 'wait time' or 'no repeat contributions' — to create more space.",
+          "I would restructure the discussion format using strategies that make participation accessible to all — think-pair-share, written responses first, small group before whole class.",
+          "I would treat the participation pattern as a design problem: auditing my own questioning strategies, resetting the culture explicitly with the class, and building discussion structures where equitable participation is the default — not a correction."
+        ]
+      },
+      {
+        "id": "s5_q4",
+        "scenario": "A learner makes a comment that lands as excluding for another learner in the class. The intent seems ambiguous — it may not have been malicious.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would note it and address it later so as not to overreact to something that may have been innocent.",
+          "I would address it in the moment without attributing intent — naming the impact rather than the motive.",
+          "I would stop the class briefly, name the impact of the comment clearly, and use it as an opportunity to reinforce classroom norms.",
+          "I would handle it in a way that addresses the impact on the affected learner, doesn't shame the speaker, and uses the moment to develop the class's shared understanding of why such comments matter — without pretending the ambiguity isn't there."
+        ]
+      },
+      {
+        "id": "s5_q5",
+        "scenario": "A learner with anxiety asks to be exempt from whole-class discussion — a core part of your pedagogy. You want to support them without simply removing the expectation.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would grant the exemption — wellbeing comes first.",
+          "I would explain that discussion is part of the curriculum and encourage the learner to try.",
+          "I would find a modified version of participation that the learner could manage — smaller groups, written contribution, or a more predictable prompt.",
+          "I would have a genuine conversation with the learner about their experience and co-design a participation pathway that both supports them and builds their capacity gradually — treating the anxiety as something to work with, not around."
+        ]
+      },
+      {
+        "id": "s5_q6",
+        "scenario": "You are choosing a novel for a unit. One option is a classic that most curricula include but which centres a particular cultural perspective. The other is a less well-known author from an under-represented background whose work is equally rich.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would use the classic — familiarity and shared reference matter.",
+          "I would use whichever text best serves the specific learning goals for this unit.",
+          "I would choose the under-represented author and use the choice as an explicit teaching moment about whose stories are typically centred.",
+          "I would make the decision based on a deliberate analysis of what each text offers — in terms of learning goals, student representation and engagement, and what the choice itself teaches — and be transparent with learners about that reasoning."
+        ]
+      },
+      {
+        "id": "s5_q7",
+        "scenario": "A learner tells you privately that family circumstances are affecting their schoolwork. It doesn't reach the threshold for a mandatory report, but it's serious enough that you're concerned.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would thank the learner for telling me and keep it in mind if their work starts to slip.",
+          "I would let them know you're here if they need to talk and check in informally from time to time.",
+          "I would inform the relevant pastoral or welfare staff, with the learner's knowledge, and follow the school's process for supporting learners in this situation.",
+          "I would take a comprehensive approach: acknowledge the trust the learner showed, clarify what you can and can't keep private, loop in the right colleagues through the proper channel, put in specific adjustments to reduce academic pressure in the short term, and maintain regular private check-ins."
+        ]
+      },
+      {
+        "id": "s5_q8",
+        "scenario": "A learner makes a comment that relies on a cultural stereotype. Another learner who belongs to that group is visibly affected. You have 5 seconds to respond.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 5,
+        "options": [
+          "I would note the comment and address it at the end of the lesson.",
+          "I would redirect quickly and address it with the speaker privately after class.",
+          "I would stop the class briefly, address the comment directly, and acknowledge the impact — without making the affected learner the focus.",
+          "I would respond in a way that centres the dignity of the affected learner first, addresses the stereotype directly but without shaming the speaker, and makes clear to the whole class that the room is one where this matters — all within the next few seconds."
+        ]
+      }
+    ]
+  },
+  {
+    "strandCode": "1.6",
+    "strandName": "Learning Environment Design and Management",
+    "domainKey": "domain1",
+    "intro": "These scenarios explore how you build the conditions — physical, relational, and cultural — in which learning can happen.",
+    "questions": [
+      {
+        "id": "s6_q1",
+        "scenario": "Your class is compliant but passive — learners complete tasks but rarely initiate, take risks, or show intellectual curiosity. You want to shift the pattern, but it's been established for some time.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would introduce more engaging activities and hope the culture shifts naturally.",
+          "I would talk to the class about wanting them to be more active participants and invite suggestions.",
+          "I would redesign classroom routines to create regular, structured moments that require initiative and intellectual risk — making participation safe and expected.",
+          "I would treat the passive culture as a design problem with a history: audit what in the environment rewards compliance over curiosity, name it with the class, and systematically rebuild the norms, tasks, and physical conditions to make active intellectual engagement the default."
+        ]
+      },
+      {
+        "id": "s6_q2",
+        "scenario": "A group of 5 learners have been disrupting the last 15 minutes of each lesson for several weeks. The pattern is escalating.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would address the group each time it happens and apply consequences consistently.",
+          "I would speak to each learner individually to understand what's behind the disruption.",
+          "I would change the lesson structure to remove the conditions that seem to trigger the disruption — pacing, tasks, seating — while also having direct conversations with the group.",
+          "I would treat it as a systemic pattern rather than individual misbehaviour: investigate the triggers through honest conversation with the group, involve parents or pastoral staff if necessary, redesign the conditions that produce the disruption, and track whether the changes hold."
+        ]
+      },
+      {
+        "id": "s6_q3",
+        "scenario": "The class comes in with a heavy, withdrawn mood — something has clearly happened outside the classroom. You have 20 seconds to decide how to begin the lesson.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 20,
+        "options": [
+          "I would begin the lesson as planned — staying in routine can help learners settle.",
+          "I would briefly acknowledge the mood and check if everyone is okay before starting.",
+          "I would pause the planned lesson, give the class a moment to settle, and make a small adjustment to the opening to match where they are.",
+          "I would read the room, name what I'm sensing without prying, give learners a brief moment of genuine acknowledgement, and then make a real-time decision about whether to proceed, adapt, or hold the lesson space differently — based on what I hear."
+        ]
+      },
+      {
+        "id": "s6_q4",
+        "scenario": "You have been giving your class increasing agency this term. Two months in, three learners are visibly struggling with the open-ended structure — they seem lost rather than empowered.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would bring those three learners back to a more structured approach while the others continue.",
+          "I would check in with those learners to understand what's making it hard.",
+          "I would redesign the degree of agency on offer so there's a clearer structure for those who need it, without removing choice entirely.",
+          "I would treat their response as data about the design: investigate whether the issue is the degree of agency, the scaffolding offered, or the learners' prior experience with self-direction — and rebuild the conditions so that agency is developed gradually, not assumed."
+        ]
+      },
+      {
+        "id": "s6_q5",
+        "scenario": "You are planning a three-week project unit that requires research, hands-on work, and peer critique. Your classroom has fixed rows of tables that cannot be permanently reconfigured.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would adapt the project to fit the fixed layout.",
+          "I would reconfigure the furniture at the start of each lesson that needs a different setup.",
+          "I would design the unit so that different phases use different configurations — planning the transitions into the lesson structure deliberately.",
+          "I would treat the fixed physical space as one constraint within a broader design problem: map the pedagogical needs of each phase, plan deliberate configuration changes, and build learner agency into how the space is set up — making the physical environment part of the learning experience, not just a backdrop to it."
+        ]
+      },
+      {
+        "id": "s6_q6",
+        "scenario": "You are running a group problem-solving unit where groups of 3 are required — but the room is set up in fixed rows that only accommodate pairs.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would work in pairs instead — adapting the task to the space available.",
+          "I would ask learners to pull chairs to the end of rows to form groups of 3 at the start of each session.",
+          "I would plan a consistent transition into group configuration at the start of the unit, making it a quick and normal part of the lesson routine.",
+          "I would use the spatial constraint as a design prompt: plan a purposeful transition into group work, communicate the rationale to learners, explore whether learner agency can be built into how groups configure themselves, and treat the friction of the space as something to work with rather than around."
+        ]
+      },
+      {
+        "id": "s6_q7",
+        "scenario": "Two learners are arguing about something that happened outside school. The rest of the class is watching. You have 15 seconds to respond.",
+        "isLiveDecision": true,
+        "liveDecisionSeconds": 15,
+        "options": [
+          "I would tell them to stop and redirect the class immediately.",
+          "I would separate the two learners and address it after class.",
+          "I would stop the interaction firmly but calmly, signal to the class to continue working, and speak to both learners immediately.",
+          "I would de-escalate with minimal drama, protect both learners' dignity in front of their peers, redirect the class smoothly, and create the conditions for a genuine follow-up with both learners as soon as possible — understanding that the classroom relationship between them matters for the rest of the year."
+        ]
+      },
+      {
+        "id": "s6_q8",
+        "scenario": "A learner has been crying quietly in lessons three times in the past two weeks. They seem embarrassed about it and their academic work hasn't dropped.",
+        "isLiveDecision": false,
+        "liveDecisionSeconds": null,
+        "options": [
+          "I would keep an eye on them but not raise it directly — their work is fine and they seem embarrassed.",
+          "I would mention quietly that you've noticed and let them know you're available if they want to talk.",
+          "I would make a private, low-pressure opportunity to check in, ask how they are doing, and make clear you're not alarmed — just paying attention.",
+          "I would approach it with care: create a private moment that doesn't add to the embarrassment, acknowledge what I've noticed without making it a problem they have to explain, make clear that I am there and that it's safe to talk, and loop in pastoral support if the pattern continues — treating the emotional environment as part of my responsibility, not separate from it."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "key": "domain1",
+    "title": "Domain 1: Pedagogical Innovation",
+    "shortTitle": "Pedagogical Innovation",
+    "bronfenbrenner": "Microsystem",
+    "color": "#16213E",
+    "strands": [
+      {
+        "code": "1.1",
+        "name": "Content Knowledge and Disciplinary Expertise",
+        "id": "pre_1_1",
+        "descriptors": {
+          "emerging": "I have a foundational understanding of my subject area but rely heavily on textbooks or prescribed materials. I sometimes find it challenging to explain concepts in multiple ways or connect content to real-world applications.",
+          "developing": "I demonstrate solid content knowledge and can present information clearly. I occasionally make connections between topics and real-world contexts, though interdisciplinary links are still developing.",
+          "proficient": "I demonstrate deep content knowledge and regularly connect concepts across topics and disciplines. I guide learners to think critically within the subject and design activities that reflect authentic disciplinary practice.",
+          "transformational": "I model expert disciplinary thinking, engage learners in original inquiry, and stay at the cutting edge of my field. I contribute to curriculum innovation and mentor peers in deepening their subject expertise."
+        }
+      },
+      {
+        "code": "1.2",
+        "name": "Interdisciplinary Awareness",
+        "id": "pre_1_2",
+        "descriptors": {
+          "emerging": "I primarily teach within my subject area and have limited experience designing lessons that draw on other disciplines. I recognise opportunities for interdisciplinary connections but rarely act on them.",
+          "developing": "I occasionally integrate concepts or skills from other disciplines into my teaching. I am aware of interdisciplinary frameworks but apply them inconsistently.",
+          "proficient": "I regularly design interdisciplinary learning experiences that help learners see the connections between subjects. I collaborate with colleagues from other departments to co-plan or co-teach.",
+          "transformational": "I lead interdisciplinary projects and professional conversations that break down siloed subject teaching. I help learners and colleagues understand how knowledge is constructed across disciplines."
+        }
+      },
+      {
+        "code": "1.3",
+        "name": "Learner-Centred Planning and Teaching",
+        "id": "pre_1_3",
+        "descriptors": {
+          "emerging": "I plan lessons primarily based on curriculum requirements and personal expertise. I have limited information about individual learner needs and differentiate infrequently.",
+          "developing": "I gather some information about learner interests and readiness and attempt to vary activities. I am developing strategies for differentiation but apply them inconsistently.",
+          "proficient": "I consistently plan with learner needs, interests, and prior knowledge in mind. I differentiate content, process, and product and regularly check for understanding to adjust my teaching.",
+          "transformational": "I co-design learning with learners, empowering them to shape their own learning journey. I use learner data to innovate my planning and share effective learner-centred strategies with colleagues."
+        }
+      },
+      {
+        "code": "1.4",
+        "name": "Appropriate Methodology to the End Goal",
+        "id": "pre_1_4",
+        "descriptors": {
+          "emerging": "I primarily use one or two teaching methods regardless of the learning goal. I am building awareness of a wider range of methodologies.",
+          "developing": "I select from a small repertoire of methods and am beginning to match them to different types of learning goals. I experiment with new approaches but do not yet do this consistently.",
+          "proficient": "I deliberately select and vary teaching methods based on the intended learning outcomes. I can explain the rationale behind my methodological choices and adjust based on learner response.",
+          "transformational": "I have a rich methodological repertoire and make nuanced, evidence-informed choices. I develop and share innovative approaches and mentor others in expanding their pedagogical range."
+        }
+      },
+      {
+        "code": "1.5",
+        "name": "Equity, Inclusion and Cultural Responsiveness",
+        "id": "pre_1_5",
+        "descriptors": {
+          "emerging": "I am aware of diversity in my classroom but rely on whole-class approaches. I am building my understanding of how cultural background, identity, and language affect learning.",
+          "developing": "I make some adjustments for diverse learners and occasionally incorporate culturally relevant examples. I am developing a more systematic approach to inclusive design.",
+          "proficient": "I design learning experiences that are accessible and culturally responsive for all learners. I actively address barriers to participation and regularly reflect on equity in my practice.",
+          "transformational": "I lead on equity and inclusion in my school. I challenge systemic barriers, mentor colleagues, and co-create culturally responsive curriculum. Learner voice is central to how I design for equity."
+        }
+      },
+      {
+        "code": "1.6",
+        "name": "Learning Environment Design and Management",
+        "id": "pre_1_6",
+        "descriptors": {
+          "emerging": "I maintain order in the classroom and ensure basic routines are in place. The physical and relational environment is functional but not yet intentionally designed to support specific types of learning.",
+          "developing": "I make deliberate choices about seating, classroom layout, and norms to support learning. I address behaviour proactively and begin to involve learners in shaping the environment.",
+          "proficient": "I design a dynamic learning environment that supports collaboration, independence, and safety. Learners understand and contribute to the norms of the space, and I adapt it to different learning purposes.",
+          "transformational": "I co-create a learning environment that learners feel ownership of. The physical, digital, and emotional dimensions are intentionally designed and continuously refined based on learner feedback."
+        }
+      }
+    ]
+  },
+  {
+    "key": "domain2",
+    "title": "Domain 2: Assessment and Academic Integrity",
+    "shortTitle": "Assessment",
+    "bronfenbrenner": "Microsystem",
+    "color": "#1A3A5C",
+    "strands": [
+      {
+        "code": "2.1",
+        "name": "Ethical Design of Assessment Tasks",
+        "id": "pre_2_1",
+        "descriptors": {
+          "emerging": "I use assessment tasks that are primarily prescribed by the school or curriculum. I am developing my understanding of how to design tasks that are valid, fair, and free from bias.",
+          "developing": "I design some of my own assessment tasks and consider alignment with learning goals. I am developing strategies to ensure fairness and accessibility across different learner groups.",
+          "proficient": "I design assessments that are carefully aligned to learning goals, accessible, and free from unnecessary bias. I regularly review tasks to ensure they accurately and fairly measure what learners know and can do.",
+          "transformational": "I lead assessment design within my team or school and advocate for equitable, authentic assessment approaches. I mentor colleagues in designing tasks that are rigorous, fair, and meaningful for all learners."
+        }
+      },
+      {
+        "code": "2.2",
+        "name": "Feedback as a Learning Tool",
+        "id": "pre_2_2",
+        "descriptors": {
+          "emerging": "I provide feedback primarily in the form of grades or brief comments. I am developing my understanding of how feedback can drive learner progress.",
+          "developing": "I provide feedback that includes some guidance on how to improve. I am building routines for formative feedback and beginning to create space for learners to act on it.",
+          "proficient": "I provide regular, specific, and actionable feedback that learners use to improve their work. I incorporate peer and self-feedback into my practice and give learners time to act on feedback before assessment.",
+          "transformational": "I have transformed the feedback culture in my classroom. Learners seek feedback proactively, use it to self-regulate, and contribute to feedback conversations. I lead professional dialogue about feedback practice."
+        }
+      },
+      {
+        "code": "2.3",
+        "name": "Data-Informed Academic Decisions",
+        "id": "pre_2_3",
+        "descriptors": {
+          "emerging": "I collect assessment data but primarily use it for reporting. I am building my capacity to analyse patterns and use evidence to inform my teaching decisions.",
+          "developing": "I analyse some assessment data to identify areas of difficulty and adjust my planning. I am developing more systematic approaches to tracking and responding to learner progress.",
+          "proficient": "I regularly use data from a range of assessments to identify trends, adapt my teaching, and support individual learners. I communicate data-informed insights to colleagues and parents.",
+          "transformational": "I lead data-informed practice in my team or school. I design systems for collecting, analysing, and responding to learner data and mentor colleagues in using evidence to improve outcomes."
+        }
+      },
+      {
+        "code": "2.4",
+        "name": "Institutionalizing Academic Integrity",
+        "id": "pre_2_4",
+        "descriptors": {
+          "emerging": "I address academic integrity issues reactively when they arise. I have a basic understanding of school policy but do not yet systematically build integrity into my practice.",
+          "developing": "I teach and reinforce academic integrity expectations in my classroom. I am developing proactive strategies to prevent dishonesty and developing learner understanding of its importance.",
+          "proficient": "I embed academic integrity across my teaching, helping learners understand its value beyond rule-following. I design assessments that reduce the incentive to cheat and build a culture of honest scholarship.",
+          "transformational": "I lead the development or review of academic integrity policy and practice in my school. I help colleagues design integrity-embedded assessments and foster a school-wide culture of intellectual honesty."
+        }
+      },
+      {
+        "code": "2.5",
+        "name": "Responsible Use of Digital Tools for Assessment",
+        "id": "pre_2_5",
+        "descriptors": {
+          "emerging": "I use digital tools for assessment in limited ways, primarily for recording marks or basic quizzes. I am building my understanding of a wider range of digital assessment approaches.",
+          "developing": "I use digital tools to create and deliver assessments and collect learner responses. I am developing my ability to analyse digital data and select tools that are appropriate for different assessment purposes.",
+          "proficient": "I strategically select and use digital tools to design, deliver, and analyse assessments. I critically evaluate their suitability for different purposes and ensure they are used responsibly and securely.",
+          "transformational": "I lead the school's digital assessment practice, mentor colleagues in responsible tool use, and contribute to policy or system decisions about digital assessment. I actively critically evaluate emerging tools."
+        }
+      }
+    ]
+  },
+  {
+    "key": "domain3",
+    "title": "Domain 3: Student Empowerment and Readiness",
+    "shortTitle": "Student Empowerment",
+    "bronfenbrenner": "Mesosystem",
+    "color": "#2E6F4E",
+    "strands": [
+      {
+        "code": "3.1",
+        "name": "Learner Self-Regulation and Goal Setting",
+        "id": "pre_3_1",
+        "descriptors": {
+          "emerging": "I provide learners with goals and expectations but do not yet systematically develop their capacity for self-regulation. I am building my understanding of metacognitive strategies.",
+          "developing": "I introduce strategies for self-regulation and goal setting and give learners some opportunities to monitor their own progress. I am developing a more consistent approach to building these skills.",
+          "proficient": "I regularly teach and model self-regulation strategies. Learners set personal learning goals, monitor their own progress, and reflect on their approaches. I use this to inform my planning.",
+          "transformational": "I have built a classroom culture where self-regulation is central to learning. Learners take genuine ownership of their goals and development. I lead school-wide initiatives to embed metacognitive practice."
+        }
+      },
+      {
+        "code": "3.2",
+        "name": "Digital Responsibility and Ethical Engagement",
+        "id": "pre_3_2",
+        "descriptors": {
+          "emerging": "I address digital safety and responsibility reactively. I have limited integration of digital citizenship into my teaching beyond basic rules.",
+          "developing": "I teach some aspects of digital citizenship and ethical engagement. I am developing a more integrated and proactive approach to supporting learners in navigating digital spaces responsibly.",
+          "proficient": "I consistently integrate digital citizenship into my teaching. Learners engage ethically and thoughtfully in digital spaces, and I help them develop the critical thinking needed for responsible digital participation.",
+          "transformational": "I lead the development of digital citizenship education in my school. I help learners develop sophisticated frameworks for ethical digital engagement and mentor colleagues in this area."
+        }
+      },
+      {
+        "code": "3.3",
+        "name": "Peer Collaboration and Social Learning",
+        "id": "pre_3_3",
+        "descriptors": {
+          "emerging": "I use group work occasionally but do not systematically develop collaboration skills. Group tasks are often completed individually with minimal interdependence.",
+          "developing": "I design collaborative tasks and teach some collaboration skills. Groups function with some interdependence, and I am developing strategies to make collaboration more purposeful and equitable.",
+          "proficient": "I regularly design structured collaborative tasks that develop both subject knowledge and interpersonal skills. Learners take on meaningful roles, give and receive peer feedback, and reflect on group dynamics.",
+          "transformational": "Collaborative learning is central to my classroom culture. I design sophisticated social learning experiences and build learners' capacity for productive collaboration. I lead colleagues in collaborative pedagogical design."
+        }
+      },
+      {
+        "code": "3.4",
+        "name": "Student Voice, Agency, and Choice",
+        "id": "pre_3_4",
+        "descriptors": {
+          "emerging": "I follow a prescribed curriculum and teaching approach with limited opportunities for learner choice. I am building awareness of strategies for incorporating learner voice.",
+          "developing": "I offer some choice in how learners demonstrate their learning and occasionally invite feedback on lessons. I am developing a more systematic approach to building learner agency.",
+          "proficient": "I regularly give learners meaningful choices in content, process, or product. Learner feedback informs my planning, and I create genuine space for learner voice in shaping the learning experience.",
+          "transformational": "Learner agency is a core design principle in my practice. Learners co-create curriculum, contribute to class norms, and take leadership roles. I advocate for learner voice at a school level."
+        }
+      },
+      {
+        "code": "3.5",
+        "name": "Future-Ready and Adaptive Thinking",
+        "id": "pre_3_5",
+        "descriptors": {
+          "emerging": "I focus primarily on the current curriculum and have limited integration of future-focused skills such as creative thinking, problem-solving, or adaptability into my lessons.",
+          "developing": "I am beginning to incorporate tasks that develop critical thinking and problem-solving. I occasionally connect learning to real-world or future contexts but do not yet do this systematically.",
+          "proficient": "I regularly design learning experiences that develop future-focused competencies: critical thinking, creativity, adaptability, and problem-solving in authentic contexts. I help learners see the relevance of their learning.",
+          "transformational": "I lead the development of future-focused curriculum and learning experiences. I connect learners to real-world challenges and help them develop the identity and skills to thrive in an uncertain future."
+        }
+      }
+    ]
+  },
+  {
+    "key": "domain4",
+    "title": "Domain 4: Digital Competence",
+    "shortTitle": "Digital Competence",
+    "bronfenbrenner": "Exosystem",
+    "color": "#C08A3E",
+    "strands": [
+      {
+        "code": "4.1",
+        "name": "Digital Pedagogical Design",
+        "id": "pre_4_1",
+        "descriptors": {
+          "emerging": "I use digital tools primarily for content delivery (e.g., presentations, videos). I have limited experience designing learning experiences that integrate technology to deepen understanding.",
+          "developing": "I use a range of digital tools to support learning and am developing my ability to select tools that match specific pedagogical goals. I am building my knowledge of digital frameworks.",
+          "proficient": "I design learning experiences that strategically integrate technology to achieve specific pedagogical goals. I apply digital frameworks (e.g., SAMR, TPACK) to evaluate and improve my digital practice.",
+          "transformational": "I lead digital pedagogical design in my school. I mentor colleagues, contribute to digital strategy, and design innovative technology-enhanced learning experiences that others can learn from."
+        }
+      },
+      {
+        "code": "4.2",
+        "name": "Empowering Student Agency Through Technology",
+        "id": "pre_4_2",
+        "descriptors": {
+          "emerging": "Learners primarily consume digital content that I create or curate. I have limited experience designing tasks where learners use technology to create, collaborate, or direct their own learning.",
+          "developing": "I create some opportunities for learners to use technology to produce and share their work. I am developing strategies to use technology to increase learner choice and voice.",
+          "proficient": "I regularly design technology-enhanced tasks where learners create, collaborate, and direct their learning. Technology is a tool for learner expression and agency, not just content consumption.",
+          "transformational": "Learners in my classroom use technology with sophistication and purpose to drive their own learning. I help colleagues design for learner empowerment through technology and contribute to school digital strategy."
+        }
+      },
+      {
+        "code": "4.3",
+        "name": "Digital Content Creation and Curation",
+        "id": "pre_4_3",
+        "descriptors": {
+          "emerging": "I use existing digital resources in my teaching and have limited experience creating or systematically curating digital content. I am building my skills in this area.",
+          "developing": "I create some original digital content and curate resources from various online sources. I am developing a more organised approach to curation and beginning to support learners in doing the same.",
+          "proficient": "I create high-quality digital content tailored to my learners' needs and build organised digital libraries of curated resources. I teach learners to critically evaluate, create, and share digital content.",
+          "transformational": "I am a recognised creator and curator of digital content within my school or professional network. I model and teach digital content literacy and contribute to open educational resources."
+        }
+      },
+      {
+        "code": "4.4",
+        "name": "Assessment and Feedback with Technology",
+        "id": "pre_4_4",
+        "descriptors": {
+          "emerging": "I use technology for basic assessment tasks such as online quizzes or mark recording. I am building my knowledge of digital tools that support more dynamic and formative assessment.",
+          "developing": "I use digital tools for formative assessment and am developing my ability to analyse and respond to digital data. I give some feedback through digital channels.",
+          "proficient": "I use a range of digital tools to design, deliver, and analyse assessments. I provide timely, actionable digital feedback and teach learners to use digital tools to track their own progress.",
+          "transformational": "I lead digital assessment practice in my school. I design and evaluate digital feedback systems, mentor colleagues, and contribute to the school's approach to data-informed digital assessment."
+        }
+      },
+      {
+        "code": "4.5",
+        "name": "AI Literacy and Ethical Use of EdTech",
+        "id": "pre_4_5",
+        "descriptors": {
+          "emerging": "I am aware of AI tools but have limited experience using or teaching with them. I am beginning to develop my understanding of the ethical implications of AI in education.",
+          "developing": "I use some AI tools in my practice and am developing a framework for evaluating their educational value. I occasionally address AI literacy with learners but do not yet do this systematically.",
+          "proficient": "I use AI tools critically and purposefully in my teaching and design learning experiences that develop learners' AI literacy. I help learners engage with AI tools ethically and with understanding.",
+          "transformational": "I lead AI literacy education in my school. I contribute to policy on AI use, mentor colleagues in ethical AI integration, and help learners develop sophisticated frameworks for understanding AI's role in society."
+        }
+      }
+    ]
+  },
+  {
+    "key": "domain5",
+    "title": "Domain 5: Professional Engagement",
+    "shortTitle": "Professional Engagement",
+    "bronfenbrenner": "Exosystem",
+    "color": "#5B8C6E",
+    "strands": [
+      {
+        "code": "5.1",
+        "name": "Professional Learning and Networking through Collaboration",
+        "id": "pre_5_1",
+        "descriptors": {
+          "emerging": "I attend required professional development but do not yet seek out additional learning opportunities. My professional network is limited, and I rarely engage in collaborative professional learning.",
+          "developing": "I participate in professional learning communities and occasionally share practice with colleagues. I am building my professional network and beginning to take ownership of my professional development.",
+          "proficient": "I proactively seek out professional learning opportunities and contribute actively to collaborative communities of practice. I regularly share and receive feedback on my practice from a wide professional network.",
+          "transformational": "I lead professional learning in my school or beyond. I design and facilitate professional development, contribute to research or networks, and help build a culture of continuous professional growth."
+        }
+      },
+      {
+        "code": "5.2",
+        "name": "Reflective Practice for Teaching Improvement",
+        "id": "pre_5_2",
+        "descriptors": {
+          "emerging": "I reflect on my teaching informally and occasionally make adjustments based on how lessons go. Reflection is not yet a structured or regular part of my practice.",
+          "developing": "I engage in structured reflection after lessons or units and use this to inform my next steps. I am developing more systematic approaches to reflective practice.",
+          "proficient": "Reflection is a regular and structured part of my practice. I use a range of tools (journals, video, peer observation) to analyse my teaching and make evidence-informed changes.",
+          "transformational": "I model and lead reflective practice in my school. I mentor colleagues in developing their reflective capacity, contribute to school improvement processes, and connect my reflection to broader professional dialogue."
+        }
+      },
+      {
+        "code": "5.3",
+        "name": "Classroom-Centred Practitioner Research",
+        "id": "pre_5_3",
+        "descriptors": {
+          "emerging": "I am aware of educational research but do not yet systematically engage with it or conduct my own classroom inquiry. I am building my understanding of action research approaches.",
+          "developing": "I engage with educational research and occasionally conduct small-scale inquiry into my own practice. I am developing the skills and confidence to conduct and share practitioner research.",
+          "proficient": "I regularly conduct classroom-based research and use findings to improve my practice and share insights with colleagues. I engage critically with educational literature to inform my inquiry.",
+          "transformational": "I lead practitioner research initiatives in my school and contribute to the wider educational research community. I mentor colleagues in research design and disseminate findings through publications or presentations."
+        }
+      },
+      {
+        "code": "5.4",
+        "name": "Data-Driven Planning and Adaptive Practice",
+        "id": "pre_5_4",
+        "descriptors": {
+          "emerging": "I use curriculum guidelines and past experience as the primary basis for planning. I make limited use of data to adapt my practice and have a basic understanding of how data can inform planning.",
+          "developing": "I use some learner data to inform my planning and am developing more systematic approaches. I am building my capacity to identify patterns and respond adaptively.",
+          "proficient": "I use a range of data sources (assessments, observations, learner feedback) to plan adaptively. I monitor the impact of my teaching decisions and adjust my approaches in response to evidence.",
+          "transformational": "I lead data-driven planning processes in my team or school. I design data collection systems, mentor colleagues in using evidence to improve practice, and contribute to school-wide adaptive planning."
+        }
+      },
+      {
+        "code": "5.5",
+        "name": "Teacher Wellbeing and Professional Sustainability",
+        "id": "pre_5_5",
+        "descriptors": {
+          "emerging": "I manage my professional responsibilities but find it difficult to maintain a sustainable work-life balance. I am building my awareness of wellbeing strategies and have limited support structures in place.",
+          "developing": "I am developing strategies for managing my workload and maintaining my wellbeing. I occasionally seek support from colleagues or mentors and am building more sustainable professional habits.",
+          "proficient": "I proactively manage my workbad and wellbeing and have established sustainable professional routines. I seek and offer peer support, set boundaries, and model healthy professional practices.",
+          "transformational": "I lead wellbeing initiatives in my school and advocate for systemic conditions that support teacher sustainability. I mentor colleagues in developing sustainable practice and contribute to school culture around wellbeing."
+        }
+      }
+    ]
+  }
+]
